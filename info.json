@@ -9,4 +9,9 @@
    "devices": ["CPH2239072D0ADFC2D4446E"],
    "expiry": "31-07-2025 12:59 AM"
 },
+   "suhartini": {
+   "password": "$2y$12$znYvS7JwiJ7GLGtezY2tPOpDQsZ24TQstupNiESmR/cSxb9KnKJ5O",
+   "devices": ["CPH1853EC96566C"],
+   "expiry": "31-07-2025 12:59 AM"
+},
 }
