@@ -9,19 +9,9 @@
    "devices": ["CPH2239072D0ADFC2D4446E"],
    "expiry": "31-07-2025 12:59 AM"
 },
-   "suhartini": {
-   "password": "$2y$12$znYvS7JwiJ7GLGtezY2tPOpDQsZ24TQstupNiESmR/cSxb9KnKJ5O",
-   "devices": ["CPH1853EC96566C"],
-   "expiry": "31-07-2025 12:59 AM"
-},
-   "12345678": {
-   "password": "$2y$12$KdSeDcGhFIy2wuH7HlpTmu9B9W4bmgfwVwN4QR936PqUbA163IX7G",
-   "devices": ["CPH19338C03259ED48126D9"],
-   "expiry": "28-02-2025 12:00 PM"
-},
    "12345678": {
    "password": "$2y$12$/Fg/Pu8M0J7RzfN2vDmZCuk5FfuAEzzWXbYMzhDizQhGHsUwRKlkW",
    "devices": ["CPH19338C03259ED48126D9"],
-   "expiry": "31-03-2025 12:00 PM"
+   "expiry": "31-03-2024 12:00 PM"
 },
 }
