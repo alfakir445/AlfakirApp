@@ -24,4 +24,9 @@
    "devices": ["SM-A145FD0333D4A696F8636"],
    "expiry": "31-01-2025 12:59 AM"
 },
+   "rinrin12345": {
+   "password": "$2y$12$N3Jve3NsP9A5IhnqbQb5Yu7FYa064MsAwV9TZqtyxSJ/nFrbwwG9W",
+   "devices": ["CPH2235 - 1ee90416489d5bf7"],
+   "expiry": "28-02-2025 12:00 PM"
+},
 }
