@@ -19,4 +19,9 @@
    "devices": ["SM-A207FD07BB0BC246176D8"],
    "expiry": "31-03-2025 12:59 AM"
 },
+   "sunsun12345i": {
+   "password": "$2y$12$OP.LnVRqNbcw4jV1lmNwYesimLcH2Z8k22B3gYWkWpjzbBcvdi9r2",
+   "devices": ["SM-A145FD0333D4A696F8636"],
+   "expiry": "31-01-2025 12:59 AM"
+},
 }
