@@ -54,4 +54,9 @@
    "devices": ["vivo 1901 - 16f0d2860a736f26"],
    "expiry": "31-05-2025 12:59 AM"
 },
+   "rinateja12": {
+   "password": "$2y$12$kB1OP/sZWqy5hOKgrspHDOSt4tfxH52lD5KaCCcaeHEcr5lfz3eW6",
+   "devices": ["V22386365DF10F13D21E5"],
+   "expiry": "30-04-2025 12:00 PM"
+},
 }
