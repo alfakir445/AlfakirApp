@@ -79,4 +79,9 @@
    "devices": ["ITELA665LF3D805FA859567AF"],
    "expiry": "29-03-2025 12:59 AM"
 },
+   "reninuryani": {
+   "password": "$2y$12$jhXLqHPgr7/.zC282qS6iutRzmxawnaP9BjVZzpfNq2qsbQm5C0vi",
+   "devices": ["23021RAA2YACF6F0FE63DF342F"],
+   "expiry": "30-04-2025 12:59 AM"
+},
 }
