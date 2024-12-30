@@ -89,4 +89,9 @@
    "devices": ["VIVO1818CA86042645F9AEF9"],
    "expiry": "31-03-2025 12:59 AM"
 },
+   "rosmawati": {
+   "password": "$2y$12$jJvIZNDdAH4gPDbqJOrJJ.ku.YGdF9PdJfj4XEjTImThR3SgzTTFG",
+   "devices": ["SM-A336E3B5A65E8FF2FA3F9"],
+   "expiry": "29-03-2025 12:59 AM"
+},
 }
