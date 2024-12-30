@@ -84,4 +84,9 @@
    "devices": ["23021RAA2YACF6F0FE63DF342F"],
    "expiry": "30-04-2025 12:59 AM"
 },
+   "nanataryana": {
+   "password": "$2y$12$jp1eH4/J4bFumY6vjZn5Z.XW9mEO4LykoJ.cNtRb1poeJRVtGVBpu",
+   "devices": ["VIVO1818CA86042645F9AEF9"],
+   "expiry": "31-03-2025 12:59 AM"
+},
 }
