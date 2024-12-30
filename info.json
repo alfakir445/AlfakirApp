@@ -49,4 +49,9 @@
    "devices": ["itel A665L - f3d805fa859567af"],
    "expiry": "31-03-2025 12:00 PM"
 },
+   "wiwin12345": {
+   "password": "$2y$12$Tmf8cduKFa.0R1MKkA4OoO73tquSDqDZyMQw5iCLtdNnmNTnhOAgW",
+   "devices": ["vivo 1901 - 16f0d2860a736f26"],
+   "expiry": "31-05-2025 12:59 AM"
+},
 }
