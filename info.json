@@ -44,4 +44,9 @@
    "devices": ["CPH2349B595ADB140BEF7AF"],
    "expiry": "30-04-2025 12:59 AM"
 },
+   "cucum13456": {
+   "password": "$2y$12$2MAT2h3TOxWtBn3RgofT6OrC70CY7UoZ.4XXvu1B4SQi5gBkB091i",
+   "devices": ["itel A665L - f3d805fa859567af"],
+   "expiry": "31-03-2025 12:00 PM"
+},
 }
