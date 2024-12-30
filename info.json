@@ -109,4 +109,9 @@
    "devices": ["CPH1909GE8DDQ7SS8P7UK5T"],
    "expiry": "28-02-2025 12:59 AM"
 },
+   "herlina12": {
+   "password": "$2y$12$6mnehuncfV86LgX40jx58ed.qeCetktDrc45zZtfwAH6cHTgBwGHq",
+   "devices": ["CPH257909AEF940BB5126EE"],
+   "expiry": "25-03-2025 12:59 AM"
+},
 }
