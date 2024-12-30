@@ -74,4 +74,9 @@
    "devices": ["CPH1909R8B68DAQSCTWEUAE"],
    "expiry": "31-03-2025 12:59 AM"
 },
+   "cucumsumartini": {
+   "password": "$2y$12$j0PK7CQBP/R9Z2xixdpRSOVQR4zlTzDUdZEr292G0yMCAUIKeFNcm",
+   "devices": ["ITELA665LF3D805FA859567AF"],
+   "expiry": "29-03-2025 12:59 AM"
+},
 }
