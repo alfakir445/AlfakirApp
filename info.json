@@ -64,4 +64,9 @@
    "devices": ["VIVO190116F0D2860A736F26"],
    "expiry": "31-03-2025 12:59 AM"
 },
+   "ayimaryam": {
+   "password": "$2y$12$m2C7h/nl18ud5DwE4Iz7K.iMaMhu1ZffSJrYBvWGlnbNIs/v0Eafq",
+   "devices": ["CPH2113046C7362B44CDE49"],
+   "expiry": "31-03-2025 12:59 AM"
+},
 }
