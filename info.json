@@ -69,4 +69,9 @@
    "devices": ["CPH2113046C7362B44CDE49"],
    "expiry": "31-03-2025 12:59 AM"
 },
+   "yayathidayat": {
+   "password": "$2y$12$6uV.3lrIUc6QkcSU9GeMw.7WHwuFmz2dS8H57UkfJftqJuaMO/AQ2",
+   "devices": ["CPH1909R8B68DAQSCTWEUAE"],
+   "expiry": "31-03-2025 12:59 AM"
+},
 }
