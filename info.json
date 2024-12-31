@@ -25,11 +25,6 @@
    "expiry": "31-01-2025 12:59 AM"
 },
    "rinrin12345": {
-   "password": "$2y$12$N3Jve3NsP9A5IhnqbQb5Yu7FYa064MsAwV9TZqtyxSJ/nFrbwwG9W",
-   "devices": ["CPH2235 - 1ee90416489d5bf7"],
-   "expiry": "28-02-2025 12:00 PM"
-},
-   "rinrin12345": {
    "password": "$2y$12$dS4Qb6NXnrIe0e4EtppJW.AV/OEC4/McfDni585LgiiFwVTW.yl4y",
    "devices": ["CPH22351EE90416489D5BF7"],
    "expiry": "31-03-2025 12:59 AM"
@@ -43,16 +38,6 @@
    "password": "$2y$12$pKz1acMGVCEbQBOZHujVwew4rx0MOOqpyAvIh.XRx/2OycrQiusHW",
    "devices": ["CPH2349B595ADB140BEF7AF"],
    "expiry": "30-04-2025 12:59 AM"
-},
-   "cucum13456": {
-   "password": "$2y$12$2MAT2h3TOxWtBn3RgofT6OrC70CY7UoZ.4XXvu1B4SQi5gBkB091i",
-   "devices": ["itel A665L - f3d805fa859567af"],
-   "expiry": "31-03-2025 12:00 PM"
-},
-   "wiwin12345": {
-   "password": "$2y$12$Tmf8cduKFa.0R1MKkA4OoO73tquSDqDZyMQw5iCLtdNnmNTnhOAgW",
-   "devices": ["vivo 1901 - 16f0d2860a736f26"],
-   "expiry": "31-05-2025 12:59 AM"
 },
    "rinateja12": {
    "password": "$2y$12$kB1OP/sZWqy5hOKgrspHDOSt4tfxH52lD5KaCCcaeHEcr5lfz3eW6",
@@ -97,7 +82,7 @@
    "dedeh457": {
    "password": "$2y$12$9KqBOe7LMQPOc3NuZLpQFuQRb4H10jmEDLZ6rQ./AzXWIiWak2RTm",
    "devices": ["2312DRA50GC890ADEE361A60D1"],
-   "expiry": "01-05-2025 12:00 PM"
+   "expiry": "29-10-2025 12:00 PM"
 },
    "asepdede01": {
    "password": "$2y$12$qEg2BIMfzev6zC2xnaqc6eVH89PWEYQkRHUM7hBnqkL9xmpMZE/ue",
