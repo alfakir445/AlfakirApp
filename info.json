@@ -114,4 +114,9 @@
    "devices": ["CPH257909AEF940BB5126EE"],
    "expiry": "25-03-2025 12:59 AM"
 },
+   "mimin123": {
+   "password": "$2y$12$SvaBzGq2VjQUx0k2IUU.zuNGhiq4rbmH5XuLUxtf1Z./z.vfWH1MO",
+   "devices": ["RMX20302BE07022E4D6FAE4"],
+   "expiry": "31-03-2025 12:59 AM"
+},
 }
