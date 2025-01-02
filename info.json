@@ -119,4 +119,9 @@
    "devices": ["V2236C3DFC25C34E72982"],
    "expiry": "31-03-2025 12:59 AM"
 },
+   "sukmawati01": {
+   "password": "$2y$12$yh3lVVg1H6EDS2EoTAJcBecTfq9WHFDzlws4spdxvoKyaeY3M43Gm",
+   "devices": ["M2010J19SG8482E5C78BA946DC"],
+   "expiry": "31-03-2025 12:00 PM"
+},
 }
