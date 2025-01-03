@@ -124,4 +124,9 @@
    "devices": ["M2010J19SG8482E5C78BA946DC"],
    "expiry": "31-03-2025 12:00 PM"
 },
+   "yadi12345": {
+   "password": "$2y$12$8Vf.Ls/o4uXBRmRNbEZSnuMVe91FEN9Zk0SJqerQP7S/Q/MDd3EYe",
+   "devices": ["V2108EE72F8F04B90DE93"],
+   "expiry": "28-02-2025 12:00 PM"
+},
 }
