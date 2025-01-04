@@ -134,4 +134,9 @@
    "devices": ["V2029586A2EA5E153165F"],
    "expiry": "28-02-2025 12:00 PM"
 },
+   "erols123": {
+   "password": "$2y$12$0P.NQ99YsqB1XaGu3lNaNeOkk5GPrAhAaKxqhtpNt.dU4z/RGuQTq",
+   "devices": ["INFINIXX6850BCE61D10F613CF022"],
+   "expiry": "31-01-2025 12:00 PM"
+},
 }
