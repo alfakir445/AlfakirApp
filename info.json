@@ -129,4 +129,9 @@
    "devices": ["V2108EE72F8F04B90DE93"],
    "expiry": "28-02-2025 12:00 PM"
 },
+   "nana12345": {
+   "password": "$2y$12$XOKeO9/6Y7eBEpv9fD7cOuhuU1uFo43Ltue4YAnfl62qX5HiwDcmu",
+   "devices": ["V2029586A2EA5E153165F"],
+   "expiry": "28-02-2025 12:00 PM"
+},
 }
