@@ -139,4 +139,9 @@
    "devices": ["INFINIXX6850BCE61D10F613CF022"],
    "expiry": "31-01-2025 12:00 PM"
 },
+   "susi5678": {
+   "password": "$2y$12$UsQspG6QBxYPbY5sjacq0OLViDhjGIck2lZIeff7S/1/6Dwtbuxpu",
+   "devices": ["SM-A325FDC572733285B6990"],
+   "expiry": "04-02-2025 12:00 PM"
+},
 }
