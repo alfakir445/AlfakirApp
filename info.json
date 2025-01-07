@@ -159,4 +159,9 @@
    "devices": ["SM-A047FEC371E38E3D0FA53"],
    "expiry": "31-03-2025 12:00 PM"
 },
+   "lusebenita": {
+   "password": "$2y$12$g.yCKNV0QSF64afV0E.EzeWjuKJiY/CxrtMqLUn/woKWuAkGbVwQi",
+   "devices": ["SM-A047FEC371E38E3D0FA53"],
+   "expiry": "31-03-2025 12:00 PM"
+},
 }
