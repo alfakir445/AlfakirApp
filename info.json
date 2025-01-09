@@ -169,4 +169,9 @@
    "devices": ["SM-A155F41BB8F52192106DB"],
    "expiry": "15-01-2025 12:00 PM"
 },
+   "rusmini123": {
+   "password": "$2y$12$sRQtPeQFZScuzwbfg39VWuZkLW7BQvqBHPxgohlxF7ZbLTBN.94jK",
+   "devices": ["CPH2083251701B5DB2A39D0"],
+   "expiry": "31-03-2025 12:00 PM"
+},
 }
