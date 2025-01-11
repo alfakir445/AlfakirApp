@@ -189,4 +189,9 @@
    "devices": ["23124RA7EO630036DC82DBD240"],
    "expiry": "21-11-2025 12:00 PM"
 },
+   "nengeris12": {
+   "password": "$2y$12$oA9JG8RZgv0geRZpJyW.OuHmt4MeEoq3l/xYRExmFgz7B3RsBlj8C",
+   "devices": ["SM-A528B126E32B0DB1D6172"],
+   "expiry": "31-03-2025 12:00 PM"
+},
 }
