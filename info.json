@@ -214,4 +214,9 @@
    "devices": ["SM-A047F281452B10484FF9E"],
    "expiry": "31-03-2025 12:00 PM"
 },
+   "epapua.hendrikus": {
+   "password": "$2y$12$vJoEm7icJTnKj9QWjRgI6..ftoo840rNaVl9xn8HHtMdH6UgzytAq",
+   "devices": ["SM-N960F5258CD4E746D90C1"],
+   "expiry": "31-03-2025 12:00 PM"
+},
 }
