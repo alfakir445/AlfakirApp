@@ -224,4 +224,9 @@
    "devices": ["CPH2387B573AAAC67096985"],
    "expiry": "31-03-2025 12:00 PM"
 },
+   "leliherlina": {
+   "password": "$2y$12$.L5OCrhMseOdcOc8tun8VOi9YdVxuYYoo98hKKsmYFCOw3W2j1fv6",
+   "devices": ["CPH2387B573AAAC67096985"],
+   "expiry": "28-02-2025 12:00 PM"
+},
 }
