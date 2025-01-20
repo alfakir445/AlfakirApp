@@ -217,16 +217,6 @@
    "epapua.hendrikus": {
    "password": "$2y$12$vJoEm7icJTnKj9QWjRgI6..ftoo840rNaVl9xn8HHtMdH6UgzytAq",
    "devices": ["SM-N960F5258CD4E746D90C1"],
-   "expiry": "31-10-2025 12:00 PM"
-},
-   "leliherlina": {
-   "password": "$2y$12$UD1PwCnVlKFSFh9caqJMH.yQpE0jwy4sr13Pz8Fbz4fF6h5y3niAm",
-   "devices": ["CPH2387B573AAAC67096985"],
-   "expiry": "31-03-2025 12:00 PM"
-},
-   "leliherlina": {
-   "password": "$2y$12$.L5OCrhMseOdcOc8tun8VOi9YdVxuYYoo98hKKsmYFCOw3W2j1fv6",
-   "devices": ["CPH2387B573AAAC67096985"],
-   "expiry": "28-02-2025 12:00 PM"
+   "expiry": "31-10-2025 12:00 PM" 
 },
 }
