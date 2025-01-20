@@ -224,4 +224,9 @@
    "devices": ["CPH2387B573AAAC67096985"],
    "expiry": "31-03-2025 12:00 PM"
 },
+   "epapua.hermelina": {
+   "password": "$2y$12$NCKNunTMXBrOYWpk.e7Jl.sp.g6INf0f50Rwrm5aCHATUNXllW5gK",
+   "devices": ["V20298C9049CAD9D2234A"],
+   "expiry": "31-10-2025 12:00 PM"
+},
 }
