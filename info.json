@@ -139,25 +139,15 @@
    "devices": ["SM-A325FDC572733285B6990"],
    "expiry": "04-07-2025 12:00 PM"
 },
-   "anad1234": {
-   "password": "$2y$12$JA0IemlACWpUl00MDaVdWubu9kSmzGaJ.kzDurYx6Z7.NEhxYfE26",
-   "devices": ["ASUSX00DDBH1AXGF000507N66"],
-   "expiry": "18-01-2025 12:00 PM"
-},
    "lusebenita": {
    "password": "$2y$12$g.yCKNV0QSF64afV0E.EzeWjuKJiY/CxrtMqLUn/woKWuAkGbVwQi",
    "devices": ["SM-A047FEC371E38E3D0FA53"],
    "expiry": "31-03-2025 12:00 PM"
 },
-   "bpomroy1": {
-   "password": "$2y$12$wB6yeIR2xO1KRWKADDKhEu7fKWZRr37rlMhf9Fq5924UJchuZDlTa",
-   "devices": ["CPH2083C9C681A99AC12981"],
-   "expiry": "31-01-2025 12:00 PM"
-},
    "yen12345": {
    "password": "$2y$12$j8VDDhTA3gu0/fma4wSTkO1wcNshyqOaRsoFRUB4foMHWvXoibYYC",
    "devices": ["SM-A155F41BB8F52192106DB"],
-   "expiry": "15-02-2025 12:00 PM"
+   "expiry": "25-03-2025 12:00 PM"
 },
    "rusmini123": {
    "password": "$2y$12$sRQtPeQFZScuzwbfg39VWuZkLW7BQvqBHPxgohlxF7ZbLTBN.94jK",
@@ -209,11 +199,6 @@
    "devices": ["SM-N960F5258CD4E746D90C1"],
    "expiry": "31-10-2025 12:00 PM" 
 },
-   "leliherlina": {
-   "password": "$2y$12$q6xS60k1eUX.FSA.bxuEy.yvz9U1ToBFggCWtIPN0fEThxSMh20RC",
-   "devices": ["CPH2387B573AAAC67096985"],
-   "expiry": "31-03-2025 12:00 PM"
-},
    "epapua.hermelina": {
    "password": "$2y$12$NCKNunTMXBrOYWpk.e7Jl.sp.g6INf0f50Rwrm5aCHATUNXllW5gK",
    "devices": ["V20298C9049CAD9D2234A"],
@@ -227,6 +212,6 @@
    "wiwinhendarsih": {
    "password": "$2y$12$YE7zj1.idnT980TsaM8mwOnMTXgNLShfk91U1LFjBmmIMf//UFFAq",
    "devices": ["CPH27014BFF7828E4D52DB4"],
-   "expiry": "30-04-2025 12:00 PM"
+   "expiry": "30-05-2025 12:00 PM"
 },
 }
