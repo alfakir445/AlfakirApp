@@ -219,4 +219,9 @@
    "devices": ["RMX3085E2E8D604B5FB1608"],
    "expiry": "28-02-2025 12:00 PM"
 },
+   "saenaga.aziz": {
+   "password": "$2y$12$Tn.Ctx5ONknd4f2GxCOYzui5LVaCieOjg3dMG/wOTGNG6fq1wxklu",
+   "devices": ["M2004J19C94E5237D91204B60"],
+   "expiry": "31-10-2025 12:00 PM"
+},
 }
