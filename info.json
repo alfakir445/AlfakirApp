@@ -214,4 +214,9 @@
    "devices": ["CPH27014BFF7828E4D52DB4"],
    "expiry": "30-05-2025 12:00 PM"
 },
+   "sipon.martupia": {
+   "password": "$2y$12$ivIR/os3DGtmypb2tlUy7ufHFLUWPxgRvm5cwoLgdCqKh8WA0n/Sa",
+   "devices": ["RMX3085E2E8D604B5FB1608"],
+   "expiry": "28-02-2025 12:00 PM"
+},
 }
