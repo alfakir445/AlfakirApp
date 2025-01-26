@@ -224,4 +224,10 @@
    "devices": ["M2004J19C94E5237D91204B60"],
    "expiry": "31-10-2025 12:00 PM"
 },
+   "nanang.suginda": {
+   "password": "$2y$12$44gqbD9THOg.udGXS.8di.nDNsM.fznTc4Uy3uD62BnF28YgUTI3m",
+   "devices": ["CPH23654BCEA8531058249D"],
+   "expiry": "24-04-2025 12:00 PM"
+},
+   
 }
