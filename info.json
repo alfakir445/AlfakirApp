@@ -229,5 +229,9 @@
    "devices": ["CPH23654BCEA8531058249D"],
    "expiry": "24-04-2025 12:00 PM"
 },
-   
+   "dewi.ratnasari": {
+   "password": "$2y$12$dimz7w6HW5G8xLW00J3a/uePzptc0V/E53qh.wh.FlQEqMKkMwe.y",
+   "devices": ["SM-A057F49489AD49B6FDA88"],
+   "expiry": "31-05-2025 12:00 PM"
+},
 }
