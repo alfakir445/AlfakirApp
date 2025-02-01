@@ -234,4 +234,9 @@
    "devices": ["SM-A057F49489AD49B6FDA88"],
    "expiry": "31-05-2025 12:00 PM"
 },
+   "kmob.tamin": {
+   "password": "$2y$12$Tx7g8Sit90oRqX8M29RAnez5NnvDgYybIx6lUT7ksVyMxNAFNxWV6",
+   "devices": ["SM-A057FB047A60C339E0C59"],
+   "expiry": "30-11-2025 12:00 PM"
+},
 }
