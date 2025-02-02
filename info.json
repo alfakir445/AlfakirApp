@@ -239,4 +239,9 @@
    "devices": ["SM-A047F281452B10484FF9E"],
    "expiry": "31-12-2025 12:00 PM"
 },
+   "1pama.annato": {
+   "password": "$2y$12$49ymLr7Lm.H.SlicbhbnnOmKfBSL4oq9SeZMoms884v5JNU/fT5K.",
+   "devices": ["RMX206118E928A4AED31AC4"],
+   "expiry": "31-10-2025 12:00 PM"
+},
 }
