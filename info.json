@@ -254,9 +254,9 @@
    "devices": ["23124RA7EOF286A565CFF03846"],
    "expiry": "31-10-2025 12:00 PM"
 },
-   "sadasbor.ika.rustika": {
-   "password": "$2y$12$mQliDFjvBiWlbn2aArC2eunW6dTuQ/kKp8w5faoZ5suIIZ5Pmn8j6",
+   "sadasbor.ikarustika": {
+   "password": "$2y$12$9ErGQ6e2Zo7GJzAJ5zrBDugMXvdoe1ZNgAjYaAEBFxh0Q6O5h8KNq",
    "devices": ["V2116C90C51EB7E6730E8"],
-   "expiry": "30-04-2025 12:00 PM"
+   "expiry": "31-05-2025 12:00 PM"
 },
 }
