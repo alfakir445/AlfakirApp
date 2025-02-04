@@ -269,4 +269,9 @@
    "devices": ["INFINIXX68374C708320D7985AC2"],
    "expiry": "30-04-2025 12:00 PM"
 },
+   "bobana.darli": {
+   "password": "$2y$12$PIeCXS.vOxge2zZod9laFuI8fX6Q1FFSZP2p5l11BfYvknoebvC9q",
+   "devices": ["ITELS665L3FC2E551C80DAC31"],
+   "expiry": "30-04-2025 12:00 PM"
+},
 }
