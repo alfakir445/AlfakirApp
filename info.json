@@ -249,4 +249,9 @@
    "devices": ["CPH1933017EF51AD2AC5368"],
    "expiry": "30-04-2025 12:00 PM"
 },
+   "bombana.idhar2": {
+   "password": "$2y$12$tLOcBPHDtqVRI612LPekF.iHw4eEI0pXLpZXtT63250GX8L/PMqLO",
+   "devices": ["23124RA7EOF286A565CFF03846"],
+   "expiry": "31-10-2025 12:00 PM"
+},
 }
