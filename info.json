@@ -279,4 +279,9 @@
    "devices": ["CPH2529234A09D647BD559B"],
    "expiry": "27-11-2025 12:00 PM"
 },
+   "bombana.my": {
+   "password": "$2y$12$G2fgYO4hDCVZT/XMf1N1/e25aPnw/nxR09r4qasAoy3yVQUu3mxjy",
+   "devices": ["CPH257757C3FE9D81785EB3"],
+   "expiry": "31-03-2025 12:00 PM"
+},
 }
