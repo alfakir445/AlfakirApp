@@ -289,4 +289,9 @@
    "devices": ["SM-A135FF21D2FC34781C946"],
    "expiry": "30-04-2025 12:00 PM"
 },
+   "fitrilaras1": {
+   "password": "$2y$12$K40x7i01wgO4wrfbBZ4DhOeY5CPlC1HzZREcs2omM7m.MAZkIKSVm",
+   "devices": ["SM-A135FF21D2FC34781C946"],
+   "expiry": "31-03-2025 12:00 PM"
+},
 }
