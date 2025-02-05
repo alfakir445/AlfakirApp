@@ -279,4 +279,9 @@
    "devices": ["CPH19338C03259ED48126D9"],
    "expiry": "01-02-2025 12:00 PM"
 },
+   "sadas.nia": {
+   "password": "$2y$12$mN6/KV2bDib8kE9Ft9FfMOYect/fH3Yi8mLC2oXMfVegVKKzocAYi",
+   "devices": ["CPH2529234A09D647BD559B"],
+   "expiry": "27-05-2025 12:00 PM"
+},
 }
