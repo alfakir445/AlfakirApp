@@ -309,4 +309,9 @@
    "devices": ["SM-A207FBA47A7EFFE5D3B8D"],
    "expiry": "16-07-2025 12:00 PM"
 },
+   "jopta.sekayun": {
+   "password": "$2y$12$EcG7Fpc54Vwqeo4vdSi4xe.CLuTH3X29feyIdgbgobnC7b8saAQu.",
+   "devices": ["SM-M127F5AD21C465AAFA6EF"],
+   "expiry": "16-07-2025 12:00 PM"
+},
 }
