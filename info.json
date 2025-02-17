@@ -319,4 +319,9 @@
    "devices": ["CPH2631CEF58C7A953871F1"],
    "expiry": "18-06-2025 12:00 PM"
 },
+   "nanang.suginda": {
+   "password": "$2y$12$EtfvFh4SZqkrpzaCkiuRiONEIdNpkoILmQBT10UGVBubo6KNcgRxy",
+   "devices": ["CPH2365F8A67700DD6706A4"],
+   "expiry": "24-05-2025 12:00 PM"
+},
 }
