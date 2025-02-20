@@ -319,15 +319,10 @@
    "devices": ["CPH2239B68D40423AC2B151"],
    "expiry": "23-05-2025 12:00 PM"
 },
-   "sipon.bony": {
-   "password": "$2y$12$..rW/PbBYzmLVAHsVYCVkO2RB14l2hD/.oLery4n9SrCdo//CrG4m",
-   "devices": ["REDMINOTE48TMBG6A66PZ5HM8D"],
-   "expiry": "23-02-2025 12:00 PM"
-},
    "sipon.bony1": {
    "password": "$2y$12$3C8iQHrEGUm5kmUm7YW6UuZ6zKVvGLhVCLNnpjro2d3hlvHaLwOu6",
    "devices": ["MIA14C42A4E4425AC481"],
-   "expiry": "19-03-2025 12:00 PM"
+   "expiry": "19-07-2025 12:00 PM"
 },
    "sipon.feri": {
    "password": "$2y$12$0BnuZsNx.ny/k3vqEzEc/O5fxoo9KssM7/oHc3krvWFd/KYzmOBkO",
@@ -337,6 +332,6 @@
    "simanja.anad": {
    "password": "$2y$12$BV4ouofKu4W/GDhaALy9Fu2XJrb4EyPm6tNCf2Tioi.qaiYXnm1L.",
    "devices": ["ASUSX00DDBH1AXGF000507N66"],
-   "expiry": "22-04-2025 12:00 PM"
+   "expiry": "05-03-2025 12:00 PM"
 },
 }
