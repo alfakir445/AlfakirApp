@@ -329,4 +329,9 @@
    "devices": ["MIA14C42A4E4425AC481"],
    "expiry": "19-03-2025 12:00 PM"
 },
+   "sipon.feri": {
+   "password": "$2y$12$0BnuZsNx.ny/k3vqEzEc/O5fxoo9KssM7/oHc3krvWFd/KYzmOBkO",
+   "devices": ["RMX3521A0B3803B94AAB5E7"],
+   "expiry": "25-09-2025 12:00 PM"
+},
 }
