@@ -177,12 +177,12 @@
    "siponwilly": {
    "password": "$2y$12$y9kFcrXYE5yuNOTgDHCpEOmkogoENKjGR5n9eaHDo2JZ8hlDVX52O",
    "devices": ["M2103K19PGB2219600C0192D12"],
-   "expiry": "31-03-2025 12:00 PM"
+   "expiry": "26-06-2025 12:00 PM"
 },
    "siponrahman": {
    "password": "$2y$12$JUdSgePKYZTJFCQ5sLNyMOpSP39uBLfolmjhgC2O3YHLipcj1vHGe",
    "devices": ["SM-A715F6A062C08DAA71085"],
-   "expiry": "31-03-2025 12:00 PM"
+   "expiry": "27-06-2025 12:00 PM"
 },
    "epapua.januardy": {
    "password": "$2y$12$lBRgzRY82JDH8sinMakK0e/xK3IPJh4vRzdTpKhV2gm7ZG52sdd9e",
@@ -212,7 +212,7 @@
    "sipon.martupia": {
    "password": "$2y$12$ivIR/os3DGtmypb2tlUy7ufHFLUWPxgRvm5cwoLgdCqKh8WA0n/Sa",
    "devices": ["RMX3085E2E8D604B5FB1608"],
-   "expiry": "28-02-2025 12:00 PM"
+   "expiry": "28-06-2025 12:00 PM"
 },
    "saenaga.aziz": {
    "password": "$2y$12$Tn.Ctx5ONknd4f2GxCOYzui5LVaCieOjg3dMG/wOTGNG6fq1wxklu",
