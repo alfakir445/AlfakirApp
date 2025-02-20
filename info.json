@@ -324,4 +324,9 @@
    "devices": ["REDMINOTE48TMBG6A66PZ5HM8D"],
    "expiry": "23-02-2025 12:00 PM"
 },
+   "sipon.bony1": {
+   "password": "$2y$12$3C8iQHrEGUm5kmUm7YW6UuZ6zKVvGLhVCLNnpjro2d3hlvHaLwOu6",
+   "devices": ["MIA14C42A4E4425AC481"],
+   "expiry": "19-03-2025 12:00 PM"
+},
 }
