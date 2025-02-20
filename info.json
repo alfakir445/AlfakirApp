@@ -334,4 +334,9 @@
    "devices": ["RMX3521A0B3803B94AAB5E7"],
    "expiry": "25-09-2025 12:00 PM"
 },
+   "simanja.anad": {
+   "password": "$2y$12$BV4ouofKu4W/GDhaALy9Fu2XJrb4EyPm6tNCf2Tioi.qaiYXnm1L.",
+   "devices": ["ASUSX00DDBH1AXGF000507N66"],
+   "expiry": "22-04-2025 12:00 PM"
+},
 }
