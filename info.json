@@ -334,4 +334,9 @@
    "devices": ["ASUSX00DDBH1AXGF000507N66"],
    "expiry": "05-03-2025 12:00 PM"
 },
+   "sinaga.bangim": {
+   "password": "$2y$12$Jr9Y8UQrzCvwOB8wLD4kNeURrxgEoIewQpJ8uPGqBCPr5/rRoSgaO",
+   "devices": ["INFINIXX650CB0F1DC73F43F7CEE"],
+   "expiry": "27-12-2025 12:00 PM"
+},
 }
