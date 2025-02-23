@@ -344,4 +344,9 @@
    "devices": ["CPH2185A631574D0DEBB17D"],
    "expiry": "22-11-2025 12:00 PM"
 },
+   "sadas.ehan": {
+   "password": "$2y$12$hjkCWuiM6HilBTxYz54a3O83jimJDafMqmmM.UfXsvk8wxkshEvs2",
+   "devices": ["24117RN76OA1F6FED0C5DF31EF"],
+   "expiry": "07-06-2025 12:00 PM"
+},
 }
