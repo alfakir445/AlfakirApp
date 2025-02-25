@@ -354,4 +354,9 @@
    "devices": ["SM-A135F2244EB09B3322449"],
    "expiry": "18-06-2025 12:00 PM"
 },
+   "sadas.jajang": {
+   "password": "$2y$12$s/4Xm4Dyj1dxdHvSss39zuJGo29uWjCQMWOuOeJ9aK2eLKNF.7qDq",
+   "devices": ["CPH2477F6211D8704473BF4"],
+   "expiry": "17-07-2025 12:00 PM"
+},
 }
