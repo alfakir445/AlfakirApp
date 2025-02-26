@@ -364,4 +364,9 @@
    "devices": ["INE-LX2495F02DD6A81BAB4"],
    "expiry": "20-09-2025 12:00 PM"
 },
+   "sipon.nirwan": {
+   "password": "$2y$12$abgVW0tG0y74Dth0heQb5eGvsMyScCPAkAwIMaF2/iIS4usPV2gHC",
+   "devices": ["INFINIXX6531B5A5EBE1D0F157370"],
+   "expiry": "17-10-2025 12:00 PM"
+},
 }
