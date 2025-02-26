@@ -359,4 +359,9 @@
    "devices": ["CPH2477F6211D8704473BF4"],
    "expiry": "17-07-2025 12:00 PM"
 },
+   "ninda.bengkulu": {
+   "password": "$2y$12$bTFtIy0JdUAO7cj1Oaputul84LWuMUERkGjezyxjJbDY.74HPbagm",
+   "devices": ["INE-LX2495F02DD6A81BAB4"],
+   "expiry": "20-09-2025 12:00 PM"
+},
 }
