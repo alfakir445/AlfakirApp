@@ -369,4 +369,9 @@
    "devices": ["INFINIXX6531B5A5EBE1D0F157370"],
    "expiry": "17-10-2025 12:00 PM"
 },
+   "sipon.david": {
+   "password": "$2y$12$YtMolCLiWrNQWb7jKOwqHe7mjxy3rvHb3Yp0td7Yiygz7a29BLPgm",
+   "devices": ["SM-A135F5DF488810C5106A4"],
+   "expiry": "12-11-2025 12:00 PM"
+},
 }
