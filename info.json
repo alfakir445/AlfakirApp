@@ -374,4 +374,9 @@
    "devices": ["SM-A135F5DF488810C5106A4"],
    "expiry": "12-11-2025 12:00 PM"
 },
+   "kmob.jack": {
+   "password": "$2y$12$0JOlj3Mg3lvuNWCMzK292.C3xitm4jWnx3OJ.wcCu4YiTlRxxYMBa",
+   "devices": ["23122PCD1G3EDBA3A451AB3E48"],
+   "expiry": "30-04-2025 12:00 PM"
+},
 }
