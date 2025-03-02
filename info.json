@@ -379,4 +379,9 @@
    "devices": ["23122PCD1G3EDBA3A451AB3E48"],
    "expiry": "30-04-2025 12:00 PM"
 },
+   "office.riko2": {
+   "password": "$2y$12$pNxR9QymuNEje9gaKW8jc.vWwL3iXLwiFAyz8EpTEVT0tnZC2bBnO",
+   "devices": ["INFINIXX683748F1034CA644CCB5"],
+   "expiry": "12-07-2025 12:00 PM"
+},
 }
