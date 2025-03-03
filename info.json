@@ -384,4 +384,9 @@
    "devices": ["INFINIXX683748F1034CA644CCB5"],
    "expiry": "12-07-2025 12:00 PM"
 },
+   "sadas.rusyani": {
+   "password": "$2y$12$fqE3g90GWevgY448BV9lHOL7JjYATt1txWcb4UzcjSMWObTnwVERa",
+   "devices": ["V2204DA18B9473B33CB96"],
+   "expiry": "13-12-2025 12:00 PM"
+},
 }
