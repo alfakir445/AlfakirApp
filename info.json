@@ -389,4 +389,9 @@
    "devices": ["V2204DA18B9473B33CB96"],
    "expiry": "13-12-2025 12:00 PM"
 },
+   "sadas.beni": {
+   "password": "$2y$12$.TYw2TAe0KpZtMGqkY9zke3RynPZDfq3MkIsbE2SzoAmjSkx5u6Kq",
+   "devices": ["INFINIXX6853B8763ADBB205266E"],
+   "expiry": "24-05-2025 12:00 PM"
+},
 }
