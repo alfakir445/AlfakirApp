@@ -397,6 +397,11 @@
    "h.dju123": {
    "password": "$2y$12$CF2ovZWfDa2lB7yPugtW7uHF5vmkwXxscimpqMcltlc7b8e0qUGJ.",
    "devices": ["SM-M315FF0F4BECC508C71A7"],
-   "expiry": "18-04-2025 12:00 PM"
+   "expiry": "18-10-2025 12:00 PM"
+},
+   "sadas.mimin": {
+   "password": "$2y$12$5p1565tJk4lJpn3WvM6jVeqaVtrHze3dJ6R70fCGpnh0QG7r.W1iy",
+   "devices": ["CPH22694BAE6B35D04C16D9"],
+   "expiry": "28-06-2025 12:00 PM"
 },
 }
