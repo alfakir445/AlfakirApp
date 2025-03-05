@@ -394,4 +394,9 @@
    "devices": ["INFINIXX6853B8763ADBB205266E"],
    "expiry": "24-05-2025 12:00 PM"
 },
+   "h.dju123": {
+   "password": "$2y$12$CF2ovZWfDa2lB7yPugtW7uHF5vmkwXxscimpqMcltlc7b8e0qUGJ.",
+   "devices": ["SM-M315FF0F4BECC508C71A7"],
+   "expiry": "18-04-2025 12:00 PM"
+},
 }
