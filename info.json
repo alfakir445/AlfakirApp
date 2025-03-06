@@ -409,4 +409,9 @@
    "devices": ["RMX3938BD2BC6E20BFFF3C2"],
    "expiry": "20-12-2025 12:00 PM"
 },
+   "sinaga.ali": {
+   "password": "$2y$12$lvHethwnpFUoHWR8Rkc7D.maRKlv0AuIrTRCQI3pNT6M9mSLi9B92",
+   "devices": ["ITELP671LADF1A7CAB65E4D92"],
+   "expiry": "20-12-2025 12:00 PM"
+},
 }
