@@ -404,4 +404,9 @@
    "devices": ["CPH22694BAE6B35D04C16D9"],
    "expiry": "28-06-2025 12:00 PM"
 },
+   "sinaga.birin": {
+   "password": "$2y$12$l3RA2AVi/ZrjYxnwvEXtGOzauPBipR5L6uRRV1X5J993SBDtNTqq.",
+   "devices": ["RMX3938BD2BC6E20BFFF3C2"],
+   "expiry": "20-12-2025 12:00 PM"
+},
 }
