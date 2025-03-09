@@ -419,4 +419,9 @@
    "devices": ["VIVO20078A41C963D214530A"],
    "expiry": "20-12-2025 12:00 PM"
 },
+   "saenaga.bro": {
+   "password": "$2y$12$QgFycfQsEXZ.jyc31PvCf./td074J5GRmlZO9nFVTPNyVKKqMOvnK",
+   "devices": ["M2006C3LGC9DEEBA0525F4C8D"],
+   "expiry": "13-12-2025 12:00 PM"
+},
 }
