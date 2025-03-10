@@ -424,4 +424,9 @@
    "devices": ["M2006C3LGC9DEEBA0525F4C8D"],
    "expiry": "13-12-2025 12:00 PM"
 },
+   "saenaga.bre": {
+   "password": "$2y$12$pAKpT7RqXDLVAQuuBP0ZlO7wcBCei3KZjj4EAcZPyF/yw3H/lmsA2",
+   "devices": ["SM-A245F16A8B456C26C6EB8"],
+   "expiry": "19-07-2025 12:00 PM"
+},
 }
