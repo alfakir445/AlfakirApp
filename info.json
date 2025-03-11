@@ -434,4 +434,9 @@
    "devices": ["CPH21795F343B02CE282089"],
    "expiry": "06-12-2025 12:00 PM"
 },
+   "sadas.tedi": {
+   "password": "$2y$12$PCcxfdrGJkeWVe3fCF8iBuOsWXpAH59GSAaUMu3.d6Il1alTgSta6",
+   "devices": ["SM-A042F4806A67F3E35DCA9"],
+   "expiry": "03-01-2026 12:00 PM"
+},
 }
