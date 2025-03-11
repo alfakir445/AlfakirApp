@@ -429,4 +429,9 @@
    "devices": ["SM-A245F16A8B456C26C6EB8"],
    "expiry": "19-07-2025 12:00 PM"
 },
+   "sipon.boy": {
+   "password": "$2y$12$uLmkyOSDQbuvJup/qjXcwO7Tqcql/hmMSo9IxU22nh/cug5RbWZgC",
+   "devices": ["CPH21795F343B02CE282089"],
+   "expiry": "06-12-2025 12:00 PM"
+},
 }
