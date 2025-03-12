@@ -439,4 +439,9 @@
    "devices": ["SM-A042F4806A67F3E35DCA9"],
    "expiry": "03-01-2026 12:00 PM"
 },
+   "sadas.abdul": {
+   "password": "$2y$12$VNs8VVQqhzAZAlhbgaKj8.vL.mNLMomZOkIlvw7Co62CwCzv1IQpe",
+   "devices": ["SM-A135F9F5341D20C6C28D1"],
+   "expiry": "17-01-2026 12:00 PM"
+},
 }
