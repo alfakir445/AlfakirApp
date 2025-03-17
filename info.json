@@ -449,4 +449,9 @@
    "devices": ["SM-A155F1126B80FCD37D574"],
    "expiry": "24-05-2025 12:00 PM"
 },
+   "sadas.iis": {
+   "password": "$2y$12$T.1QjFOAPX0dc1vfT/J2neKiRGTh8c02kEKP1L6XPJFh1fzGnYc3W",
+   "devices": ["SM-A155FDEB1D8D4989E1930"],
+   "expiry": "10-01-2026 12:00 PM"
+},
 }
