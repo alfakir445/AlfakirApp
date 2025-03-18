@@ -459,4 +459,9 @@
    "devices": ["SM-A155FD360A2A71280A3AF"],
    "expiry": "11-07-2025 12:00 PM"
 },
+   "ardita.putra": {
+   "password": "$2y$12$NW.KZ.Jqyko73WJf3fMmHOKtPQ1T9xuIgBuSQg0E0Cljcc.3a4D6.",
+   "devices": ["REDMINOTE5B0398514C7F597CC"],
+   "expiry": "28-03-2025 12:00 PM"
+},
 }
