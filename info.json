@@ -464,4 +464,9 @@
    "devices": ["REDMINOTE5B0398514C7F597CC"],
    "expiry": "28-03-2025 12:00 PM"
 },
+   "epapua.suryani": {
+   "password": "$2y$12$Cxt5fC9o/XAr7u0z3q2mBuQMzzOLJYSX8vq4cVt86OJtP2PxZxRTG",
+   "devices": ["SM-J415F3E3C689E"],
+   "expiry": "18-07-2025 12:00 PM"
+},
 }
