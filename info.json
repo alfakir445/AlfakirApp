@@ -464,4 +464,9 @@
    "devices": ["SM-J415F3E3C689E"],
    "expiry": "18-07-2025 12:00 PM"
 },
+   "sipon.nirwan1": {
+   "password": "$2y$12$LUo8sMEAqVPQKNukonqCJO6XgL3t47EVnkDyK/aMDlwk1L7q2m6QS",
+   "devices": ["INFINIXX6531BEB42948E63AF93AD"],
+   "expiry": "17-10-2025 12:00 PM"
+},
 }
