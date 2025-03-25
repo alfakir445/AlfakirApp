@@ -474,4 +474,9 @@
    "devices": ["M2101K7BNYBF397ADB1A6F3803"],
    "expiry": "22-06-2025 12:00 PM"
 },
+   "sipon.edi": {
+   "password": "$2y$12$aGjaKMEPs4f2G880YPawNezFGoQm68kvEM9LNV8C0HaZL4nuR0kce",
+   "devices": ["SM-A515F8F0EA62326BD3FA7"],
+   "expiry": "18-06-2025 12:00 PM"
+},
 }
