@@ -479,4 +479,9 @@
    "devices": ["SM-A515F8F0EA62326BD3FA7"],
    "expiry": "18-06-2025 12:00 PM"
 },
+   "sadas.lia": {
+   "password": "$2y$12$TYzSZ6Re8qU73DBSEB3ifeniE4w.or84Ru2OBV4VOu4A/6CuPmPGm",
+   "devices": ["CPH25774D72303D233A734E"],
+   "expiry": "15-11-2025 12:00 PM"
+},
 }
