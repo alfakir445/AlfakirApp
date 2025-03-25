@@ -142,7 +142,7 @@
    "lusebenita": {
    "password": "$2y$12$g.yCKNV0QSF64afV0E.EzeWjuKJiY/CxrtMqLUn/woKWuAkGbVwQi",
    "devices": ["SM-A047FEC371E38E3D0FA53"],
-   "expiry": "31-03-2025 12:00 PM"
+   "expiry": "23-04-2025 12:00 PM"
 },
    "yen12345": {
    "password": "$2y$12$j8VDDhTA3gu0/fma4wSTkO1wcNshyqOaRsoFRUB4foMHWvXoibYYC",
@@ -287,7 +287,7 @@
    "fitrilaras1": {
    "password": "$2y$12$K40x7i01wgO4wrfbBZ4DhOeY5CPlC1HzZREcs2omM7m.MAZkIKSVm",
    "devices": ["SM-A135FF21D2FC34781C946"],
-   "expiry": "31-03-2025 12:00 PM"
+   "expiry": "25-03-2025 12:00 PM"
 },
    "sadas.fitri": {
    "password": "$2y$12$fAxnmct3uqUue1lCtlHl5enqCWTthac22ZeCW4aZMUG4HVtE7JA56",
@@ -472,6 +472,6 @@
    "cahyaaji": {
    "password": "$2y$12$kYE1s6s4//b/nvWXgjMydewMYJ6a1hZ800YxNjxDBceIJeLxHZ5Iq",
    "devices": ["M2101K7BNYBF397ADB1A6F3803"],
-   "expiry": "22-05-2025 12:00 PM"
+   "expiry": "22-06-2025 12:00 PM"
 },
 }
