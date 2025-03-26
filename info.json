@@ -484,4 +484,9 @@
    "devices": ["CPH25774D72303D233A734E"],
    "expiry": "15-11-2025 12:00 PM"
 },
+   "leli.herlina": {
+   "password": "$2y$12$ByBgtQYdD9Kgb4fNTxAz5e8E2WyEdununt7p/bjNw9N0YWtZevAPq",
+   "devices": ["CPH2387B573AAAC67096985"],
+   "expiry": "11-06-2025 12:00 PM"
+},
 }
