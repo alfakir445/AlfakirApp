@@ -489,4 +489,9 @@
    "devices": ["CPH2387B573AAAC67096985"],
    "expiry": "11-06-2025 12:00 PM"
 },
+   "dian.sadas": {
+   "password": "$2y$12$wqSNHopfZXwB9dojkjD75.Iot3153876iHHf5XnFqAahrYf2uwSIG",
+   "devices": ["CPH212768EB2CE96F885D11"],
+   "expiry": "21-06-2025 12:00 PM"
+},
 }
