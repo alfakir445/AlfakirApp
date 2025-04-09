@@ -494,4 +494,9 @@
    "devices": ["CPH212768EB2CE96F885D11"],
    "expiry": "21-06-2025 12:00 PM"
 },
+   "bombana.andy": {
+   "password": "$2y$12$KMd.RgEdsNnV8/dvDwdUGOW4g.5PI79G94Rp9MO7XEY4VG3v4HP9C",
+   "devices": ["SM-A730F5912E110A067FFB5"],
+   "expiry": "19-06-2025 12:00 PM"
+},
 }
