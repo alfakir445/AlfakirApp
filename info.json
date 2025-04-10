@@ -504,4 +504,9 @@
    "devices": ["CPH2343B3D351D3EA217530"],
    "expiry": "29-04-2025 12:00 PM"
 },
+   "sipon.ashshub": {
+   "password": "$2y$12$edOaBUfdp8Ta0LETbzKX/.860XD4BOTKE6uAPEiC0L5j26y7W6nLi",
+   "devices": ["V22058AD5EEDD191A8C7A"],
+   "expiry": "20-11-2025 12:00 PM"
+},
 }
