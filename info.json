@@ -509,4 +509,9 @@
    "devices": ["V22058AD5EEDD191A8C7A"],
    "expiry": "20-11-2025 12:00 PM"
 },
+   "sadas.ade": {
+   "password": "$2y$12$UyqXSqO/VEBQMvLqn1bwluRyPpeTZxRM3bn9h.ABrMoaoM0sRr9vK",
+   "devices": ["V235208A4E9B77330EA8D"],
+   "expiry": "21-06-2025 12:00 PM"
+},
 }
