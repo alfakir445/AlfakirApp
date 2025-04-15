@@ -512,11 +512,11 @@
    "sadas.ade": {
    "password": "$2y$12$UyqXSqO/VEBQMvLqn1bwluRyPpeTZxRM3bn9h.ABrMoaoM0sRr9vK",
    "devices": ["V235208A4E9B77330EA8D"],
-   "expiry": "21-06-2025 12:00 PM"
+   "expiry": "17-04-2025 12:00 PM"
 },
    "s_pes123": {
    "password": "$2y$12$uWZL.garVuc5OTwpthkdSutyGHl.ckQ8Ht70Sc5Fx7kU9BvLagUl.",
    "devices": ["RMX3195E4738D421EED71C3"],
-   "expiry": "25-06-2025 12:00 PM"
+   "expiry": "25-03-2026 12:00 PM"
 },
 }
