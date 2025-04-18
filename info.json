@@ -524,4 +524,9 @@
    "devices": ["INFINIXX652555A65C64A280FE38"],
    "expiry": "20-06-2025 12:00 PM"
 },
+   "kmob.dedew": {
+   "password": "$2y$12$.hI/bO8k3hBtYTOTur15v.v4CAXDNYjaLIzNWnz4f6.DUz6atNaA.",
+   "devices": ["SM-AO57F49489AD49B6FDA88"],
+   "expiry": "20-12-2025 12:00 PM"
+},
 }
