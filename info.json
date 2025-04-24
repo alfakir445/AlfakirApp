@@ -534,4 +534,9 @@
    "devices": ["CPH2015B77F3D91216AC440"],
    "expiry": "17-07-2025 12:00 PM"
 },
+   "sadas.fitri": {
+   "password": "$2y$12$loAw7NGPE4uxl2k7Ws4hM./RCmrKG2WzSELiVP3zvjrn/JXAbk6p.",
+   "devices": ["CPH22390444FA00A070006D"],
+   "expiry": "19-07-2025 12:00 PM"
+},
 }
