@@ -544,4 +544,9 @@
    "devices": ["V205815B90CD799DFC2F5"],
    "expiry": "20-06-2025 12:00 PM"
 },
+   "sadas.fitri2": {
+   "password": "$2y$12$1Zbd36NfWNe/1mqkxhn15uoCjW.QnhBIJtSN9ctLryeCUfmMElp1G",
+   "devices": ["SM-A245FC8B8030612EAD37D"],
+   "expiry": "29-11-2025 12:00 PM"
+},
 }
