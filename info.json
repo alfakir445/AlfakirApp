@@ -289,11 +289,6 @@
    "devices": ["SM-A135FF21D2FC34781C946"],
    "expiry": "25-03-2025 12:00 PM"
 },
-   "sadas.fitri": {
-   "password": "$2y$12$fAxnmct3uqUue1lCtlHl5enqCWTthac22ZeCW4aZMUG4HVtE7JA56",
-   "devices": ["SM-A245FC8B8030612EAD37D"],
-   "expiry": "26-11-2025 12:00 PM"
-},
    "satri.sekayun": {
    "password": "$2y$12$3vzoTU9HiIdOLDZGiI1hM.EF1oDQvyjanHzSrUnuyiHkMszFxDsAS",
    "devices": ["SM-A042FB1E9B6B77B2FE25C"],
