@@ -549,4 +549,9 @@
    "devices": ["SM-A146P111BC4C31DF75317"],
    "expiry": "27-12-2025 12:00 PM"
 },
+   "alap.alap": {
+   "password": "$2y$12$TzHYpAMTVfjpTanoWHB25edlQ95I2OLiy6Fy6inOc/xG1mCgX9Sky",
+   "devices": ["RMX219575E653A552206A7F"],
+   "expiry": "20-06-2025 12:00 PM"
+},
 }
