@@ -554,4 +554,9 @@
    "devices": ["RMX219575E653A552206A7F"],
    "expiry": "20-06-2025 12:00 PM"
 },
+   "sadas.anggi": {
+   "password": "$2y$12$SN5MnOGshDp49jADdK2P3.osqsYQr6v093Ko957ONpuHNu455oK8u",
+   "devices": ["SM-A146P31C088310E289D0A"],
+   "expiry": "26-07-2025 12:00 PM"
+},
 }
