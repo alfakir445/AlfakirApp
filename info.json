@@ -569,4 +569,9 @@
    "devices": ["REDMINOTE4743F4B5BD0D6EE2A"],
    "expiry": "24-07-2025 12:00 PM"
 },
+   "jagal_sapi": {
+   "password": "$2y$12$8u52ujDNFExJHb42irSdL.oJSswS.OYJSJgc2sfmjl9aQuS3bfd0.",
+   "devices": ["VIVO20195769F756EC2354AD"],
+   "expiry": "19-06-2025 12:00 PM"
+},
 }
