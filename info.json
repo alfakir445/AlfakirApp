@@ -564,4 +564,9 @@
    "devices": ["CPH193171A6F7D98F4F6507"],
    "expiry": "26-06-2025 12:00 PM"
 },
+   "alap_alap": {
+   "password": "$2y$12$EK6Lb0H2nHokLbXFbtHOU.5RfrvWSnYCSns9vrSX5ywf7jOLnqDe2",
+   "devices": ["REDMINOTE4743F4B5BD0D6EE2A"],
+   "expiry": "24-07-2025 12:00 PM"
+},
 }
