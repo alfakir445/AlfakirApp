@@ -574,4 +574,9 @@
    "devices": ["VIVO20195769F756EC2354AD"],
    "expiry": "19-06-2025 12:00 PM"
 },
+   "sadas.yayan": {
+   "password": "$2y$12$P52.e3vUO7OvPcJjSDw/yOHa0Y82AYZ6UO5OKNXvFaQcBWCV1reve",
+   "devices": ["V2026AD35F128EE1C87B2"],
+   "expiry": "27-09-2025 12:00 PM"
+},
 }
