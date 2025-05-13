@@ -579,4 +579,9 @@
    "devices": ["V2026AD35F128EE1C87B2"],
    "expiry": "27-09-2025 12:00 PM"
 },
+   "presensi.nely": {
+   "password": "$2y$12$E6GUyO4e0Kn1bw3xdXUR/Ojip8vRVDaWHpA7InLfi7FUh3YmqN2YG",
+   "devices": ["SM-A146PF8525670A5397140"],
+   "expiry": "01-05-2025 12:00 PM"
+},
 }
