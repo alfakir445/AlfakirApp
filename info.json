@@ -589,4 +589,9 @@
    "devices": ["21061119AG2F2BEE5D5FBB3F07"],
    "expiry": "27-06-2026 12:00 PM"
 },
+   "sadas.enokspdi": {
+   "password": "$2y$12$PBScgNXCjNOjOQsaebG2.urJ2CYMqcPAyWquRHMCbVX6MgdLk9nsa",
+   "devices": ["M2101K6G595B229E16169C67"],
+   "expiry": "28-06-2025 12:00 PM"
+},
 }
