@@ -584,4 +584,9 @@
    "devices": ["SM-A146PF8525670A5397140"],
    "expiry": "01-05-2025 12:00 PM"
 },
+   "kmob.nira": {
+   "password": "$2y$12$nDQ1Seg/ahtLU3TVKWeKluy.fF7GzsN6E1UYnLgLyZG.dLEAPGTBe",
+   "devices": ["21061119AG2F2BEE5D5FBB3F07"],
+   "expiry": "27-06-2026 12:00 PM"
+},
 }
