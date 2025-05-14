@@ -594,4 +594,9 @@
    "devices": ["M2101K6G595B229E16169C67"],
    "expiry": "28-06-2025 12:00 PM"
 },
+   "sadas.wiwit": {
+   "password": "$2y$12$bkBpp.maS33Rk05Xkc2d7OIXIx/f2rk.JK9/ts5eCe/Y9pCRk/T2m",
+   "devices": ["INFINIXX68534DC2CA0B5D33A5A7"],
+   "expiry": "09-08-2025 12:00 PM"
+},
 }
