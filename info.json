@@ -609,4 +609,9 @@
    "devices": ["23124RA7EO630036DC82DBD240"],
    "expiry": "27-12-2025 12:00 PM"
 },
+   "sadas.nonong": {
+   "password": "$2y$12$9gram167C0BY8NeT.woVee6uXeOgbnekBsEOx3y1YGZV8ygxy0HAm",
+   "devices": ["CPH1853EC96566C"],
+   "expiry": "27-09-2025 12:00 PM"
+},
 }
