@@ -614,4 +614,9 @@
    "devices": ["CPH1853EC96566C"],
    "expiry": "27-09-2025 12:00 PM"
 },
+   "malang.netral": {
+   "password": "$2y$12$YS7iVLdOIA/KbA.ZJaAGtuRCM9gXRRTAxlQcWfJBG.caWbzSwteN2",
+   "devices": ["CPH1909SKGEZSZLI75PTWAM"],
+   "expiry": "26-07-2025 12:00 PM"
+},
 }
