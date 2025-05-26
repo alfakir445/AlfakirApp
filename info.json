@@ -629,4 +629,9 @@
    "devices": ["CPH1725INTSBYTKFQZSHASK"],
    "expiry": "25-07-2025 12:00 PM"
 },
+   "disysipedro": {
+   "password": "$2y$12$.BDPB2gXdu4pd4g.vbPV8eGhnQvohHHl.f9cXchbL32.6Z9yC6wUq",
+   "devices": ["CPH1725INTSBYTKFQZSHASK"],
+   "expiry": "19-07-2025 12:00 PM"
+},
 }
