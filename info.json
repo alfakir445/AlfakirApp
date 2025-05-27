@@ -219,11 +219,6 @@
    "devices": ["M2004J19C94E5237D91204B60"],
    "expiry": "31-10-2025 12:00 PM"
 },
-   "dewi.ratnasari": {
-   "password": "$2y$12$dimz7w6HW5G8xLW00J3a/uePzptc0V/E53qh.wh.FlQEqMKkMwe.y",
-   "devices": ["SM-A057F49489AD49B6FDA88"],
-   "expiry": "31-05-2026 12:00 PM"
-},
    "kmob.tamin": {
    "password": "$2y$12$Tx7g8Sit90oRqX8M29RAnez5NnvDgYybIx6lUT7ksVyMxNAFNxWV6",
    "devices": ["SM-A057FB047A60C339E0C59"],
