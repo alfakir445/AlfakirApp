@@ -634,4 +634,14 @@
    "devices": ["SM-A146P111BC4C31DF75317"],
    "expiry": "20-03-2026 12:00 PM"
 },
+   "sadas.reni3106": {
+   "password": "$2y$12$TUUcV1xz0L2Dn5UwCpIBLOjlM/zG/LP5Ii7MLmUdctMpfA8/UWXAW",
+   "devices": ["SM-A346E9FF9638B812E9EED"],
+   "expiry": "16-05-2026 12:00 PM"
+},
+   "sadas.reni3106": {
+   "password": "$2y$12$TUUcV1xz0L2Dn5UwCpIBLOjlM/zG/LP5Ii7MLmUdctMpfA8/UWXAW",
+   "devices": ["SM-A346E9FF9638B812E9EED"],
+   "expiry": "16-05-2026 12:00 PM"
+},
 }
