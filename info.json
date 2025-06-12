@@ -654,4 +654,9 @@
    "devices": ["CPH2061E6ADE0C7710A2F74"],
    "expiry": "20-09-2025 12:00 PM"
 },
+   "sadas.wawat": {
+   "password": "$2y$12$92jqBxMyHvUHMmtVVelRy.6Zp3i.ZNLqvFHVBQKBV2nEx5FAxolsO",
+   "devices": ["SM-A225F9CEE1DEEFA517A6E"],
+   "expiry": "13-09-2025 12:00 PM"
+},
 }
