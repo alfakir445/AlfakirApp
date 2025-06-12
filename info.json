@@ -659,4 +659,9 @@
    "devices": ["CPH260368F5AD5D03C2A509"],
    "expiry": "20-09-2025 12:00 PM"
 },
+   "sadas.turaeti": {
+   "password": "$2y$12$oltjWiFpMYLrlyiNABdkLe.oVkuaTHMbC4luHSM4pXI.LV.FnSMTa",
+   "devices": ["CPH2061E6ADE0C7710A2F74"],
+   "expiry": "12-07-2025 12:00 PM"
+},
 }
