@@ -659,4 +659,9 @@
    "devices": ["SM-A225F9CEE1DEEFA517A6E"],
    "expiry": "13-09-2025 12:00 PM"
 },
+   "brebes.dian": {
+   "password": "$2y$12$SH1cxNemMgbUGIopnWBYA.PIyuSiiSWsRsAvs4P9y8UK5Omqm63vG",
+   "devices": ["CPH260368F5AD5D03C2A509"],
+   "expiry": "20-09-2025 12:00 PM"
+},
 }
