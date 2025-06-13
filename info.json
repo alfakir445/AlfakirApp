@@ -549,11 +549,6 @@
    "devices": ["SM-A146P31C088310E289D0A"],
    "expiry": "26-08-2025 12:00 PM"
 },
-   "mukliyah": {
-   "password": "$2y$12$sKX0vbYXpp9b0R.vY37qI.8Zqlszfv5QzJqf07qB8udkvVnFkN5a6",
-   "devices": ["CPH193171A6F7D98F4F6507"],
-   "expiry": "26-09-2025 12:00 PM"
-},
    "alap_alap": {
    "password": "$2y$12$EK6Lb0H2nHokLbXFbtHOU.5RfrvWSnYCSns9vrSX5ywf7jOLnqDe2",
    "devices": ["REDMINOTE4743F4B5BD0D6EE2A"],
@@ -673,5 +668,10 @@
    "password": "$2y$12$gO9WoUjrFLeTzhbS3xTuG.iMn9Uq9BCpdlFF6a1B6TCGDR3iBF/6i",
    "devices": ["V2116947FA359C8CF207F"],
    "expiry": "21-06-2025 12:00 PM"
+},
+   "mukliyah": {
+   "password": "$2y$12$3KxJXcRo0nN18WaSsem5i.6y4l8ZYTv.JVxIMZxADB.HkqSdAZXee",
+   "devices": ["CPH1931977EFBBBB15E1B57"],
+   "expiry": "25-10-2025 12:00 PM"
 },
 }
