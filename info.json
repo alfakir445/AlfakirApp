@@ -669,4 +669,9 @@
    "devices": ["RMX31953C888E0E4BF791F3"],
    "expiry": "15-11-2025 12:00 PM"
 },
+   "sitinurarofah": {
+   "password": "$2y$12$gO9WoUjrFLeTzhbS3xTuG.iMn9Uq9BCpdlFF6a1B6TCGDR3iBF/6i",
+   "devices": ["V2116947FA359C8CF207F"],
+   "expiry": "21-06-2025 12:00 PM"
+},
 }
