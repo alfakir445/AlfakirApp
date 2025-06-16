@@ -674,4 +674,9 @@
    "devices": ["CPH1931977EFBBBB15E1B57"],
    "expiry": "25-10-2025 12:00 PM"
 },
+   "sipon.iromzus": {
+   "password": "$2y$12$79AFuZ2TAlMVev.015Ut4.jbRBUJTUXK5soxsrDxrEYGhqZwDgLfe",
+   "devices": ["VIVO201916BCE97927F3CD9B"],
+   "expiry": "12-04-2026 12:00 PM"
+},
 }
