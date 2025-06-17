@@ -679,4 +679,9 @@
    "devices": ["VIVO201916BCE97927F3CD9B"],
    "expiry": "12-04-2026 12:00 PM"
 },
+   "sadas.fitri321": {
+   "password": "$2y$12$V.sTrBR3crskDduTuoca8eGsmXqPmMNj1RkSZ5eDlNkFXTVedt1SO",
+   "devices": ["2209116AG439908AE93047552"],
+   "expiry": "28-06-2025 12:00 PM"
+},
 }
