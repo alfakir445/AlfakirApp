@@ -684,4 +684,9 @@
    "devices": ["2209116AG439908AE93047552"],
    "expiry": "28-06-2025 12:00 PM"
 },
+   "sipon.oktavianri": {
+   "password": "$2y$12$Hjq9C6mn89lhdMRLLXsmL.hT3rKMk8cKGQ/xIY9pu1Rk1RLM6kla.",
+   "devices": ["INFINIXX678B3D001E49426A0BD2"],
+   "expiry": "19-07-2025 12:00 PM"
+},
 }
