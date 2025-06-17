@@ -689,4 +689,9 @@
    "devices": ["INFINIXX678B3D001E49426A0BD2"],
    "expiry": "19-07-2025 12:00 PM"
 },
+   "sadas.topik123": {
+   "password": "$2y$12$D1jTOZIzFfhZEt493nFmq.TGVFfLBtocRa/783TGF/RYif2MrbRxq",
+   "devices": ["RMX3231126104421A51B0C0"],
+   "expiry": "20-09-2025 12:00 PM"
+},
 }
