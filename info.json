@@ -694,4 +694,14 @@
    "devices": ["RMX3231126104421A51B0C0"],
    "expiry": "20-09-2025 12:00 PM"
 },
+   "sadas.siti65": {
+   "password": "$2y$12$D7aG.t0yzBt1Rgn/2OrxauuiG4E0xY5lF43M1Phu4to6k4lP0QGIO",
+   "devices": ["V2310C5A2143B513BE015"],
+   "expiry": "19-07-2025 12:00 PM"
+},
+   "sadas.lina76": {
+   "password": "$2y$12$Bz.rHwbZISekGQYT1bTI2Oh65bHFdqrurLs0uQVZAQCNpZ4q.hNlS",
+   "devices": ["2203129G46BB33A6EA4E5F12"],
+   "expiry": "19-07-2025 12:00 PM"
+},
 }
