@@ -669,11 +669,6 @@
    "devices": ["V2116947FA359C8CF207F"],
    "expiry": "21-06-2025 12:00 PM"
 },
-   "mukliyah": {
-   "password": "$2y$12$3KxJXcRo0nN18WaSsem5i.6y4l8ZYTv.JVxIMZxADB.HkqSdAZXee",
-   "devices": ["CPH1931977EFBBBB15E1B57"],
-   "expiry": "25-10-2025 12:00 PM"
-},
    "sipon.iromzus": {
    "password": "$2y$12$79AFuZ2TAlMVev.015Ut4.jbRBUJTUXK5soxsrDxrEYGhqZwDgLfe",
    "devices": ["VIVO201916BCE97927F3CD9B"],
