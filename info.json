@@ -704,4 +704,9 @@
    "devices": ["CPH2127185F9614A039773B"],
    "expiry": "26-07-2025 12:00 PM"
 },
+   "alap2.rokis": {
+   "password": "$2y$12$T/AXvXLFcXKYvcvhEzzNVuZKs4fQLGX6qwiD.kuWdPt6j0GP3mK22",
+   "devices": ["SM-J415F7433A19CB562CAE0"],
+   "expiry": "05-07-2025 12:00 PM"
+},
 }
