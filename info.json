@@ -714,9 +714,9 @@
    "devices": ["23108RN04Y7637FAD7B54C5301"],
    "expiry": "20-12-2025 12:00 PM"
 },
-   "sadas.jajang.kurniadi": {
-   "password": "$2y$12$EnXBKLUiecrg4VCgc2tct.ibpdxoGXXx2pBnHJFtP7qzOghPtvQ9G",
+   "sadas.kurniadi": {
+   "password": "$2y$12$wfAa6pSHggXYomYspWV4CO2tizMNmhCS8l4pdKacrOu1HT3FiG17K",
    "devices": ["CPH247373B563974295B352"],
-   "expiry": "27-09-2025 12:00 PM"
+   "expiry": "20-09-2025 12:00 PM"
 },
 }
