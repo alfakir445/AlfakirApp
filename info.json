@@ -719,4 +719,9 @@
    "devices": ["CPH247373B563974295B352"],
    "expiry": "20-09-2025 12:00 PM"
 },
+   "sadas.ade": {
+   "password": "$2y$12$7AGBl.FF7WdAWFdHFjscIeQ5pkL/0hnJXm8UbjBvdgt9U/k1lPKKC",
+   "devices": ["SM-A045F011A15845ED9BBAF"],
+   "expiry": "20-09-2025 12:00 PM"
+},
 }
