@@ -727,11 +727,16 @@
    "mapras.gas": {
    "password": "$2y$12$oN4x39RVsSUvL2Dradf6J.Z8DLHPipzW06XBZ3hmJgxLTUOquumgS",
    "devices": ["VIVO1820AQKJJ7CYHAJV8DUW"],
-   "expiry": "19-07-2025 12:00 PM"
+   "expiry": "19-07-2023 12:00 PM"
 },
    "ipama.jmhri": {
    "password": "$2y$12$Gb.Qo0ykc6tswFyVgQ8vROs5pvqDQ5IIpWzoRH4IFDzKG7aBqoz9m",
    "devices": ["CPH2333C470091E5740C9EA"],
    "expiry": "09-08-2025 12:00 PM"
+},
+   "sadas.atik99": {
+   "password": "$2y$12$Qyn7vY0I74gSL8gfTleC..YyyyubXdUN2gbMIWPMaZrdLKMvRTETK",
+   "devices": ["SM-A207FBB98D30A981C3B6F"],
+   "expiry": "19-07-2025 12:00 PM"
 },
 }
