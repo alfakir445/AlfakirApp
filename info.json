@@ -744,4 +744,9 @@
    "devices": ["CPH2269868666B4146941EC"],
    "expiry": "13-09-2025 12:00 PM"
 },
+   "sipon.boni66": {
+   "password": "$2y$12$H1Xl.4oX/N5w4wlB6qxcNeeKGQLpv1/0h7PVzkhPZFgfE82/AVQZG",
+   "devices": ["24094RAD4G3CB6BBBB999CE154"],
+   "expiry": "07-03-2026 12:00 PM"
+},
 }
