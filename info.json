@@ -754,4 +754,9 @@
    "devices": ["SM-A042FEFA6C362B25B857E"],
    "expiry": "20-09-2025 12:00 PM"
 },
+   "sadas.wiwin62": {
+   "password": "$2y$12$twEa/NyxTpsHQMvoSphz6uRreOxtuwivXiWblzEW3FgbP9ljFBafC",
+   "devices": ["23053RN02ADF9FA864D5F4B527"],
+   "expiry": "27-09-2025 12:00 PM"
+},
 }
