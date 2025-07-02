@@ -749,4 +749,9 @@
    "devices": ["24094RAD4G3CB6BBBB999CE154"],
    "expiry": "07-03-2026 12:00 PM"
 },
+   "sadas.dindin": {
+   "password": "$2y$12$zYGItqJDbAN1TqNnMlXdhumEj5k7ztR30oLdPbf36NJM04bXZrYz2",
+   "devices": ["SM-A042FEFA6C362B25B857E"],
+   "expiry": "20-09-2025 12:00 PM"
+},
 }
