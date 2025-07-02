@@ -759,4 +759,9 @@
    "devices": ["23053RN02ADF9FA864D5F4B527"],
    "expiry": "27-09-2025 12:00 PM"
 },
+   "sadas.heri52": {
+   "password": "$2y$12$hJ.tDNKiBuaKuv93X1pSB.wuYaAM5dJVQ.XAfaM.daEx6ZMdU7oaS",
+   "devices": ["M2103K19PG9E1D4ADD30522B97"],
+   "expiry": "23-08-2025 12:00 PM"
+},
 }
