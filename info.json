@@ -757,7 +757,7 @@
    "sadas.wiwin62": {
    "password": "$2y$12$twEa/NyxTpsHQMvoSphz6uRreOxtuwivXiWblzEW3FgbP9ljFBafC",
    "devices": ["23053RN02ADF9FA864D5F4B527"],
-   "expiry": "27-09-2025 12:00 PM"
+   "expiry": "27-06-2026 12:00 PM"
 },
    "sadas.heri52": {
    "password": "$2y$12$hJ.tDNKiBuaKuv93X1pSB.wuYaAM5dJVQ.XAfaM.daEx6ZMdU7oaS",
@@ -767,6 +767,10 @@
    "zan.hidayat": {
    "password": "$2y$12$91ouSpvQdK3YKbf785BAmOKVAATyuCBAKfDPdCZ5STX9TFKS2oJym",
    "devices": ["VIVO1938A9326D07A3A22E62"],
-   "expiry": "23-08-2025 12:00 PM"
+   "expiry": "23-06-2026 12:00 PM"
+},"sipon.ahmad3": {
+   "password": "$2y$12$jevRTScm/GxSVDnXXJ/ofeSg5guie3ts.Trk6824HBVTDcK814dvy",
+   "devices": ["CPH2579689F0C3B528522E9"],
+   "expiry": "19-07-2025 12:00 PM"
 },
 }
