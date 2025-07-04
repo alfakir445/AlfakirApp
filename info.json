@@ -768,9 +768,15 @@
    "password": "$2y$12$91ouSpvQdK3YKbf785BAmOKVAATyuCBAKfDPdCZ5STX9TFKS2oJym",
    "devices": ["VIVO1938A9326D07A3A22E62"],
    "expiry": "23-06-2026 12:00 PM"
-},"sipon.ahmad3": {
+},
+   "sipon.ahmad3": {
    "password": "$2y$12$jevRTScm/GxSVDnXXJ/ofeSg5guie3ts.Trk6824HBVTDcK814dvy",
    "devices": ["CPH2579689F0C3B528522E9"],
+   "expiry": "19-07-2025 12:00 PM"
+},
+   "sadas.wantu": {
+   "password": "$2y$12$pTkgqyJAdtJb3XBuW75Ee.xPDtrkKCLG3J8DZsM9RpQW4/izMikHi",
+   "devices": ["CPH247387257BDAB593C403"],
    "expiry": "19-07-2025 12:00 PM"
 },
 }
