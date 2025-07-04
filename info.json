@@ -764,4 +764,9 @@
    "devices": ["M2103K19PG9E1D4ADD30522B97"],
    "expiry": "23-08-2025 12:00 PM"
 },
+   "zan.hidayat": {
+   "password": "$2y$12$91ouSpvQdK3YKbf785BAmOKVAATyuCBAKfDPdCZ5STX9TFKS2oJym",
+   "devices": ["VIVO1938A9326D07A3A22E62"],
+   "expiry": "23-08-2025 12:00 PM"
+},
 }
