@@ -672,7 +672,7 @@
    "sadas.wantu": {
    "password": "$2y$12$pTkgqyJAdtJb3XBuW75Ee.xPDtrkKCLG3J8DZsM9RpQW4/izMikHi",
    "devices": ["CPH247387257BDAB593C403"],
-   "expiry": "19-07-2025 12:00 PM"
+   "expiry": "19-05-2026 12:00 PM"
 },
    "sadas.nonong": {
    "password": "$2y$12$TkHlT7bPa/EEv26eySJIpeBJAPYGfXnITm0E.NtP3Pa9CNCoLW9ja",
@@ -682,6 +682,6 @@
    "sadas.isep12": {
    "password": "$2y$12$8CvpuYFBt0OeBAP1G0bw1udmIMFY/BLC..X01VYQFawEInvbScaK6",
    "devices": ["VIVO19350E4AEAB47785DAB3"],
-   "expiry": "26-07-2025 12:00 PM"
+   "expiry": "26-05-2026 12:00 PM"
 },
 }
