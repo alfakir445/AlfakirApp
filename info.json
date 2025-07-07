@@ -684,11 +684,6 @@
    "devices": ["VIVO19350E4AEAB47785DAB3"],
    "expiry": "26-05-2026 12:00 PM"
 },
-   "sadas.didah": {
-   "password": "$2y$12$ca0aib.Hx/98LOSEy7akQ.yWp.JQPtbmoWTGPzUPtFnweVp9DG0tK",
-   "devices": ["CPH221913B70E96435E3328"],
-   "expiry": "21-06-2025 12:00 PM"
-},
    "sadas.didah56": {
    "password": "$2y$12$1JSOUnjkS7YrzMCsAgCdIupauF/wY3c6zOgPLU.UbQSu2LvBLoUVq",
    "devices": ["CPH221913B70E96435E3328"],
