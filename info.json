@@ -689,4 +689,9 @@
    "devices": ["CPH221913B70E96435E3328"],
    "expiry": "21-06-2026 12:00 PM"
 },
+   "ipama.mujiono": {
+   "password": "$2y$12$N3ExhtH5lGwMoTaNdQvIhuqE674Xwmq2WeqHPMADwwFcRydGLNtJa",
+   "devices": ["CPH18239E69C2EB489E75BD"],
+   "expiry": "27-12-2025 12:00 PM"
+},
 }
