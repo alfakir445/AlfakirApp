@@ -694,4 +694,9 @@
    "devices": ["CPH18239E69C2EB489E75BD"],
    "expiry": "27-12-2025 12:00 PM"
 },
+   "ipama.abdul61": {
+   "password": "$2y$12$o4YbiPB6cIGZSn/Ll.N0KO8rgMDxag8P0a5HpjxUdzuI.U1WfrkwW",
+   "devices": ["SM-A217FACC19FF7EEB33536"],
+   "expiry": "13-06-2026 12:00 PM"
+},
 }
