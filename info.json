@@ -699,4 +699,9 @@
    "devices": ["SM-A217FACC19FF7EEB33536"],
    "expiry": "13-06-2026 12:00 PM"
 },
+   "sadas.beni12": {
+   "password": "$2y$12$PsVUCD8XxEiG80NFq8JJcuucMYxMQS.7twDJ02NZqEW9P8hXNY5Zi",
+   "devices": ["INFINIXX6853B8763ADBB205266E"],
+   "expiry": "30-08-2025 12:00 PM"
+},
 }
