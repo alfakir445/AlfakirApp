@@ -714,4 +714,9 @@
    "devices": ["CPH24616F9E7C0B4C755427"],
    "expiry": "01-07-2026 12:00 PM"
 },
+   "saenaga.nuryoto": {
+   "password": "$2y$12$68wt..5tq8PyDQ8VlApwsOMU/lQQqSVVyWEP8DD4rwExO1j..sST.",
+   "devices": ["CPH1909VSBIW4T4JZNNVK7D"],
+   "expiry": "26-07-2025 12:00 PM"
+},
 }
