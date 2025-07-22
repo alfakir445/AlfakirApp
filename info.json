@@ -322,6 +322,11 @@
    "sinaga.aziz": {
    "password": "$2y$12$Tmh58w7wS3KCqv8RoQenF.YEazsDOjUyYhZ3tpJXsD7A5EXNVXPTu",
    "devices": ["VIVO20078A41C963D214530A"],
+   "expiry": "20-12-2020 12:00 PM"
+},
+   "sinaga.aziz": {
+   "password": "$2y$12$dlrcco.M/yRCTaXQRp9RyuwAQNnF0fDptODV/29mlisNN5AXgGyOK",
+   "devices": ["VIVO20071ED4089C04B7EDDF"],
    "expiry": "20-12-2025 12:00 PM"
 },
    "sipon.boy": {
