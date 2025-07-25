@@ -444,11 +444,6 @@
    "devices": ["SM-A245FC8B8030612EAD37D"],
    "expiry": "29-11-2025 12:00 PM"
 },
-   "alap.alap": {
-   "password": "$2y$12$TzHYpAMTVfjpTanoWHB25edlQ95I2OLiy6Fy6inOc/xG1mCgX9Sky",
-   "devices": ["RMX219575E653A552206A7F"],
-   "expiry": "20-06-2025 12:00 PM"
-},
    "sadas.anggi": {
    "password": "$2y$12$SN5MnOGshDp49jADdK2P3.osqsYQr6v093Ko957ONpuHNu455oK8u",
    "devices": ["SM-A146P31C088310E289D0A"],
@@ -457,7 +452,7 @@
    "alap_alap": {
    "password": "$2y$12$EK6Lb0H2nHokLbXFbtHOU.5RfrvWSnYCSns9vrSX5ywf7jOLnqDe2",
    "devices": ["REDMINOTE4743F4B5BD0D6EE2A"],
-   "expiry": "24-07-2025 12:00 PM"
+   "expiry": "24-03-2026 12:00 PM"
 },
    "jagal_sapi": {
    "password": "$2y$12$8u52ujDNFExJHb42irSdL.oJSswS.OYJSJgc2sfmjl9aQuS3bfd0.",
