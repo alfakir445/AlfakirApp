@@ -739,4 +739,9 @@
    "devices": ["CPH2083A9C5CE5E705A384A"],
    "expiry": "16-08-2025 12:00 PM"
 },
+   "saenaga.cahya": {
+   "password": "$2y$12$xiLz3/QIk0QbiT4V/vUZIO8FJMzuR81svyDBDLpBEp1u0/NDwSGla",
+   "devices": ["2410FPCC5GCDC8DF5A6F2C1E24"],
+   "expiry": "29-11-2025 12:00 PM"
+},
 }
