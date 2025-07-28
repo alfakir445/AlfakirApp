@@ -749,4 +749,9 @@
    "devices": ["REDMI6A22C9BDE0D785B6F"],
    "expiry": "11-10-2025 12:00 PM"
 },
+   "sadas.surywn2": {
+   "password": "$2y$12$eAYlrxpSyP6eCvDXn/O7m.8j9j0tUjOh5CQJwJ5DNTHnHGeZP8klK",
+   "devices": ["REDMI6A22C9BDE0D785B6F"],
+   "expiry": "23-08-2025 12:00 PM"
+},
 }
