@@ -754,4 +754,9 @@
    "devices": ["REDMI6A22C9BDE0D785B6F"],
    "expiry": "23-08-2025 12:00 PM"
 },
+   "elin7578": {
+   "password": "$2y$12$pLTwCItikDSxNRpJZFKTj.13apxREaknBGqDAj5lJZuj1vq4iLWCm",
+   "devices": ["SM-A145FB892F6549B4B1E43"],
+   "expiry": "20-09-2025 12:00 PM"
+},
 }
