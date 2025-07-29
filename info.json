@@ -767,11 +767,11 @@
    "saenaga.sudar": {
    "password": "$2y$12$MuiPzNCT6yBfNNGWwYbE8uoEDKG0V541IH0lHDawMzk8Y0JRHZl2i",
    "devices": ["2406APNFAGA07C4B6054FF7069"],
-   "expiry": "26-07-2026 12:00 PM"
+   "expiry": "26-05-2026 12:00 PM"
 },
    "saenaga.susy": {
    "password": "$2y$12$zNStOdgshwdZI.QDr8m2veQD5W5urH1P12hYJt7d8Va1gCdCg3rja",
    "devices": ["CPH27392F535200D271F539"],
-   "expiry": "30-08-2025 12:00 PM"
+   "expiry": "30-05-2026 12:00 PM"
 },
 }
