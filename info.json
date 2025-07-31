@@ -774,4 +774,9 @@
    "devices": ["CPH27392F535200D271F539"],
    "expiry": "30-05-2026 12:00 PM"
 },
+   "Nurlaeliyah": {
+   "password": "$2y$12$jzgggXFj.gfW//fs2adZre.x0hZAEQjdFvFMy7gauKNWnuEUHtaS.",
+   "devices": ["SM-A156E324043BF2638D3A0"],
+   "expiry": "18-10-2025 12:00 PM"
+},
 }
