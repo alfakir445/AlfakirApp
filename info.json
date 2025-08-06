@@ -779,4 +779,9 @@
    "devices": ["SM-A156E324043BF2638D3A0"],
    "expiry": "18-05-2026 12:00 PM"
 },
+   "presensi.ysrn": {
+   "password": "$2y$12$05N7QwV3L7IoxjXxV1xblO6kiGEfTU/il7WioRaZhiTrs7h4Ff8J2",
+   "devices": ["CPH25790CF1104ABDC9D0BD"],
+   "expiry": "11-10-2025 12:00 PM"
+},
 }
