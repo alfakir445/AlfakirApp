@@ -784,4 +784,9 @@
    "devices": ["CPH25790CF1104ABDC9D0BD"],
    "expiry": "11-10-2025 12:00 PM"
 },
+   "sipon.evi": {
+   "password": "$2y$12$2TkTVueX0fVXfBSiFtB/CumcZX1lnmatB1eU2mMjalvVXOMMRdMKe",
+   "devices": ["CPH2269A8A3B5307911C4CC"],
+   "expiry": "04-07-2026 12:00 PM"
+},
 }
