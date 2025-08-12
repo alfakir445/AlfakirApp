@@ -789,4 +789,9 @@
    "devices": ["CPH2269A8A3B5307911C4CC"],
    "expiry": "04-07-2026 12:00 PM"
 },
+   "sadas.aisusi": {
+   "password": "$2y$12$Y9lk6HBiNlmNEN0bss.jJ.0rUzNAOi05ZRRYsvfJAyub0UUapCNoq",
+   "devices": ["CPH22393969E56325803FAA"],
+   "expiry": "27-09-2025 12:00 PM"
+},
 }
