@@ -794,4 +794,9 @@
    "devices": ["CPH22393969E56325803FAA"],
    "expiry": "27-09-2025 12:00 PM"
 },
+   "sadas.sun2": {
+   "password": "$2y$12$RouaDbK1mg5o3Ng2iAoZQObSqty4qOUAYvFb.3kfoSbHJN3fg0YPa",
+   "devices": ["SM-A165F922E6D274CD5EFDC"],
+   "expiry": "26-12-2026 12:00 PM"
+},
 }
