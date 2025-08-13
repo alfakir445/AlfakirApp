@@ -799,4 +799,9 @@
    "devices": ["SM-A165F922E6D274CD5EFDC"],
    "expiry": "26-12-2026 12:00 PM"
 },
+   "siponsukardi": {
+   "password": "$2y$12$nMwzu5LCkWDQ..zp85L0S.sUacPZIOkdvjLiP3IxSnPefH7n5bQDK",
+   "devices": ["SM-A556E392625C407BAB379"],
+   "expiry": "06-09-2025 12:00 PM"
+},
 }
