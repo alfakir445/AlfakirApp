@@ -814,4 +814,9 @@
    "devices": ["2406APNFAGD810857B0182D2B1"],
    "expiry": "15-05-2026 12:00 PM"
 },
+   "meilena.krng": {
+   "password": "$2y$12$SHKZhUlo3YdBlJLeEBQtfO3qGUhDGvtr6ozqJFw5YkV7HbVK2SS8W",
+   "devices": ["CPH22174D1C2C1EC8DC081E"],
+   "expiry": "26-09-2025 12:00 PM"
+},
 }
