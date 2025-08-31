@@ -824,4 +824,9 @@
    "devices": ["2406APNFAGD810857B0182D2B1"],
    "expiry": "09-05-2026 12:00 PM"
 },
+   "ipama.abang": {
+   "password": "$2y$12$XhryYbj2HPiqNLVA3htNpO8wXvF4dC70x4LMRoQU.vBgcaW6U/36W",
+   "devices": ["V21094C3FE976DC823837"],
+   "expiry": "11-04-2026 12:00 PM"
+},
 }
