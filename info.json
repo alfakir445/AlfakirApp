@@ -829,4 +829,9 @@
    "devices": ["V21094C3FE976DC823837"],
    "expiry": "11-05-2026 12:00 PM"
 },
+   "ipma.bangpon": {
+   "password": "$2y$12$babvtKGdXUGFD.x6EJ3fmuFwOFGFaIqJB24B/vc7y2rhHA4kvn.rm",
+   "devices": ["SM-A035FD057ADB8278DBE46"],
+   "expiry": "20-06-2026 12:00 PM"
+},
 }
