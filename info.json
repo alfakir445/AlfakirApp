@@ -237,6 +237,11 @@
    "nanang.suginda": {
    "password": "$2y$12$3K1sk8.OPsddqnwHarAESuHHJW0Cfr2ywfPmx5zgmuIIXUR1rfF8u",
    "devices": ["CPH2239B68D40423AC2B151"],
+   "expiry": "09-12-2023 12:00 PM"
+},
+   "sadas.nanang": {
+   "password": "$2y$12$vO7yVTpvpaKEczJFgWqFbuOj7db06Lh8PdPQOufDSqJE3UeT7gn4q",
+   "devices": ["CPH2365B8287DA2FF24F65E"],
    "expiry": "09-12-2025 12:00 PM"
 },
    "sipon.bony1": {
