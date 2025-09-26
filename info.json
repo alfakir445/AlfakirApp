@@ -844,4 +844,9 @@
    "devices": ["V2146C6DEEAE44E92A375"],
    "expiry": "14-08-2026 12:00 PM"
 },
+   "sadas.Y56P": {
+   "password": "$2y$12$T63iqNxgfwtbjahFXr6Z..2rAJPqQHuiMC2tjkYC3BEnIQgDdkKay",
+   "devices": ["VIVO18207DTCAMBI8DJ7Y56P"],
+   "expiry": "14-08-2026 12:00 PM"
+},
 }
