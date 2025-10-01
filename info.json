@@ -849,4 +849,9 @@
    "devices": ["VIVO18207DTCAMBI8DJ7Y56P"],
    "expiry": "14-08-2026 12:00 PM"
 },
+   "nursetya": {
+   "password": "$2y$12$FSkaFmHiXcfrqllrwgxGhempBwpN2M8LkzES7CIOns0t2EqG4ZmTm",
+   "devices": ["2201116SG16860B9BCEC9E8BA"],
+   "expiry": "08-10-2025 12:00 PM"
+},
 }
