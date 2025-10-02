@@ -859,4 +859,9 @@
    "devices": ["SM-A065FB012CD90A8DCADE6"],
    "expiry": "13-08-2026 12:00 PM"
 },
+   "sadas.noneng": {
+   "password": "$2y$12$UJfvjErOhen6oXNal.qGMeqKFB6zK85cZ56peAKOUW1sKNutPg59y",
+   "devices": ["REDMI6A33E7599F7D2A"],
+   "expiry": "14-11-2025 12:00 PM"
+},
 }
