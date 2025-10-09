@@ -864,4 +864,9 @@
    "devices": ["REDMI6A33E7599F7D2A"],
    "expiry": "14-11-2025 12:00 PM"
 },
+   "sipon.elfian": {
+   "password": "$2y$12$dVbO5DJD3rGIat8x53IXtO5LujY3ugKgNYcQSgJ/UaZuodv60zUGy",
+   "devices": ["24040RN64YC44A4E8D367C998F"],
+   "expiry": "19-09-2026 12:00 PM"
+},
 }
