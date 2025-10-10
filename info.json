@@ -869,4 +869,9 @@
    "devices": ["24040RN64YC44A4E8D367C998F"],
    "expiry": "19-09-2026 12:00 PM"
 },
+   "sadas.yyt": {
+   "password": "$2y$12$qdRfHAPDkiNvKWO/wpZIQuzQEPbQF8ov2uqNpnoy.hqTMGf7sO6qq",
+   "devices": ["V211141E7C23BC33960BC"],
+   "expiry": "01-10-2025 12:00 PM"
+},
 }
