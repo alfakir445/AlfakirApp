@@ -874,4 +874,9 @@
    "devices": ["V211141E7C23BC33960BC"],
    "expiry": "19-10-2026 12:00 PM"
 },
+   "sadas.yeyet": {
+   "password": "$2y$12$l2gL2kOFT5nI4a1ax/XBdOVZTu2fldNaJbFU3OBwaTAS7FVwC1VQC",
+   "devices": ["VIVO193865E2B9C2E430C2BC"],
+   "expiry": "16-10-2026 12:00 PM"
+},
 }
