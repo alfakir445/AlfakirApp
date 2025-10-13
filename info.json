@@ -879,4 +879,9 @@
    "devices": ["VIVO193865E2B9C2E430C2BC"],
    "expiry": "16-10-2026 12:00 PM"
 },
+   "dikerja.wwn": {
+   "password": "$2y$12$nQnv0tloBUz31VJKbn3kOuORpOGX7QJAZpsb5gEb1WTvZMJh0W3Dq",
+   "devices": ["SM-A245F884DA5591A87EDF5"],
+   "expiry": "27-12-2025 12:00 PM"
+},
 }
