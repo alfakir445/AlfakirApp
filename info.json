@@ -884,4 +884,9 @@
    "devices": ["SM-A245F884DA5591A87EDF5"],
    "expiry": "27-12-2025 12:00 PM"
 },
+   "pusaka.syah": {
+   "password": "$2y$12$Z9rGrhAFZ0AqvQkt/EFn2OeaNvmL4xPTJMva5jXEetMGzYFtFmxKS",
+   "devices": ["INFINIXX6882106D15423AC497B3"],
+   "expiry": "31-10-2025 12:00 PM"
+},
 }
