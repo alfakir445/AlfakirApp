@@ -889,4 +889,9 @@
    "devices": ["INFINIXX6882106D15423AC497B3"],
    "expiry": "31-10-2025 12:00 PM"
 },
+   "talenta.rizky": {
+   "password": "$2y$12$67ISZ.a8Ll2aHYrxX1zPwuDK9LB2mO5pQnoMaDM7FuXElEi9egih2",
+   "devices": ["V2333B2EF30AA857A3691"],
+   "expiry": "02-10-2026 12:00 PM"
+},
 }
