@@ -887,7 +887,7 @@
    "pusaka.syah": {
    "password": "$2y$12$Z9rGrhAFZ0AqvQkt/EFn2OeaNvmL4xPTJMva5jXEetMGzYFtFmxKS",
    "devices": ["INFINIXX6882106D15423AC497B3"],
-   "expiry": "31-10-2025 12:00 PM"
+   "expiry": "05-10-2026 12:00 PM"
 },
    "talenta.rizky": {
    "password": "$2y$12$67ISZ.a8Ll2aHYrxX1zPwuDK9LB2mO5pQnoMaDM7FuXElEi9egih2",
@@ -897,11 +897,11 @@
    "sleman.kinan": {
    "password": "$2y$12$9RlELYxDrQ8JgDB2wHN8c.hRlzRbLFe0ZzAbJ8bgDCL3bXViPsNBK",
    "devices": ["CPH263984A518F9E6A6B205"],
-   "expiry": "22-11-2025 12:00 PM"
+   "expiry": "22-10-2026 12:00 PM"
 },
    "pusaka.melda": {
    "password": "$2y$12$s7PxWqADU.me3HTPmf1lkueEHMBQZyXgMa4fsQJUktKlTG.26eYcO",
    "devices": ["SM-A175F6ED76A1810E83EA8"],
-   "expiry": "14-11-2025 12:00 PM"
+   "expiry": "14-10-2026 12:00 PM"
 },
 }
