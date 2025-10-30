@@ -899,4 +899,9 @@
    "devices": ["CPH263984A518F9E6A6B205"],
    "expiry": "22-11-2025 12:00 PM"
 },
+   "pusaka.melda": {
+   "password": "$2y$12$s7PxWqADU.me3HTPmf1lkueEHMBQZyXgMa4fsQJUktKlTG.26eYcO",
+   "devices": ["SM-A175F6ED76A1810E83EA8"],
+   "expiry": "14-11-2025 12:00 PM"
+},
 }
