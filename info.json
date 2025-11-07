@@ -904,4 +904,9 @@
    "devices": ["SM-A175F6ED76A1810E83EA8"],
    "expiry": "14-10-2026 12:00 PM"
 },
+   "sadas.srywn": {
+   "password": "$2y$12$vxUJlQ/MNZRAzx1gSEA0G.nmmIyEdlGMgkVFtOqNU2riBtVRwWEsq",
+   "devices": ["23129RN51X501CEB671225308E"],
+   "expiry": "22-01-2026 12:00 PM"
+},
 }
