@@ -909,4 +909,9 @@
    "devices": ["23129RN51X501CEB671225308E"],
    "expiry": "22-01-2026 12:00 PM"
 },
+   "pusaka.linda": {
+   "password": "$2y$12$6ulG4On3i3eTGQ7PapAZg.A5o0.lC6xoFPaM5lo1A78vH/njf12ru",
+   "devices": ["SM-A155F81B140F799131D5F"],
+   "expiry": "28-11-2025 12:00 PM"
+},
 }
