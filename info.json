@@ -914,4 +914,9 @@
    "devices": ["SM-A155F81B140F799131D5F"],
    "expiry": "28-10-2026 12:00 PM"
 },
+   "sadas.8765": {
+   "password": "$2y$12$7dUVVKaUcb1NAqHNvcpQoeptwmplWsbYFI3hDtkqVqRuKmo15Ln9i",
+   "devices": ["VIVO18146PCEU8O7DA8SEYPZ"],
+   "expiry": "14-10-2026 12:00 PM"
+},
 }
