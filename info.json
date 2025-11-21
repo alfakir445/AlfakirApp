@@ -919,4 +919,9 @@
    "devices": ["VIVO18146PCEU8O7DA8SEYPZ"],
    "expiry": "14-10-2026 12:00 PM"
 },
+   "sadas.yayat": {
+   "password": "$2y$12$x2Odicbkjfkp3NWkLDVqKO5KtkMFYOXA4GrPVMG6M1JhOVGBlU9nG",
+   "devices": ["V211141E7C23BC33960BC"],
+   "expiry": "04-11-2026 12:00 PM"
+},
 }
