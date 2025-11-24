@@ -924,4 +924,9 @@
    "devices": ["V211141E7C23BC33960BC"],
    "expiry": "04-11-2026 12:00 PM"
 },
+   "sadas.eka": {
+   "password": "$2y$12$W6AnVljwiFJOQeqdVaHJLuXglibG6lxD.3mVpRSQ/UQqQgFzt/kle",
+   "devices": ["CPH2217F5D0CD69CDA42742"],
+   "expiry": "06-11-2026 12:00 PM"
+},
 }
