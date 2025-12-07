@@ -929,4 +929,9 @@
    "devices": ["CPH2217F5D0CD69CDA42742"],
    "expiry": "06-11-2026 12:00 PM"
 },
+   "pusaka.fitri65": {
+   "password": "$2y$12$sgvg5Tohf0LpA1MXWkRP2uKg60yZ98pWEY0D0cHPrNWjZ8o0Td0xm",
+   "devices": ["RMX30856FEB9E18CD92E80E"],
+   "expiry": "09-12-2026 12:00 PM"
+},
 }
