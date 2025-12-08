@@ -934,4 +934,9 @@
    "devices": ["RMX30856FEB9E18CD92E80E"],
    "expiry": "09-12-2026 12:00 PM"
 },
+   "sisenso.made": {
+   "password": "$2y$12$OcXGen08ty4O6SzCluCjh./5Meo6RYCQkZaVsyuOu80ddrC5wn0sy",
+   "devices": ["VIVO1820JRAAM7Y98SSCAQO7"],
+   "expiry": "13-11-2026 12:00 PM"
+},
 }
