@@ -940,8 +940,8 @@
    "expiry": "13-11-2026 12:00 PM"
 },
    "pusaka.ridho": {
-   "password": "$2y$12$AhBDclMdmNTYpGfw.9.Fp.4FjgPihp.CrADT7qwvcjVf0n5D7RccC",
-   "devices": ["SM-A325F - 2d408963bb0c6ecc"],
+   "password": "$2y$12$J7vR28COwusQEg9ItnB6Pe2T62VY1jR7GTNYLOTt.Yb5uZ69ZjP4y",
+   "devices": ["SM-A325F2D408963BB0C6ECC"],
    "expiry": "02-12-2026 12:00 PM"
 },
 }
