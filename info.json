@@ -182,12 +182,12 @@
    "kmob.tamin": {
    "password": "$2y$12$Tx7g8Sit90oRqX8M29RAnez5NnvDgYybIx6lUT7ksVyMxNAFNxWV6",
    "devices": ["SM-A057FB047A60C339E0C59"],
-   "expiry": "30-12-2025 12:00 PM"
+   "expiry": "07-01-2026 12:00 PM"
 },
    "kmob.icha12": {
    "password": "$2y$12$NPkoD4nx4azip4K8CKq/TuXRRRaDcJbUqENsXviQSfjF2Jq/fzuTa",
    "devices": ["SM-A047F281452B10484FF9E"],
-   "expiry": "31-12-2025 12:00 PM"
+   "expiry": "08-01-2026 12:00 PM"
 },
    "1pama.annato": {
    "password": "$2y$12$49ymLr7Lm.H.SlicbhbnnOmKfBSL4oq9SeZMoms884v5JNU/fT5K.",
@@ -427,7 +427,7 @@
    "kmob.dedew": {
    "password": "$2y$12$e5v0T7b0NL55hnQopxX0b.Jkvp1JRnFoa0Hbsthz5dsT9uwXCCKfO",
    "devices": ["SM-A057F49489AD49B6FDA88"],
-   "expiry": "18-12-2025 12:00 PM"
+   "expiry": "18-01-2026 12:00 PM"
 },
    "saenaga.heru": {
    "password": "$2y$12$GhFAFsjBXPSBUtBbP857Eeu01i58lyCbRHD13r0ltnS.pUdApEHfy",
@@ -477,7 +477,7 @@
    "kmob.nira": {
    "password": "$2y$12$nDQ1Seg/ahtLU3TVKWeKluy.fF7GzsN6E1UYnLgLyZG.dLEAPGTBe",
    "devices": ["21061119AG2F2BEE5D5FBB3F07"],
-   "expiry": "27-06-2026 12:00 PM"
+   "expiry": "08-01-2026 12:00 PM"
 },
    "sadas.enokspdi": {
    "password": "$2y$12$PBScgNXCjNOjOQsaebG2.urJ2CYMqcPAyWquRHMCbVX6MgdLk9nsa",
@@ -527,7 +527,7 @@
    "kmob.nira123": {
    "password": "$2y$12$UPsbJiSHF3UjqBH6GBYpBO5rD3kCu4NBLFaoH3Oc34NeX7326d62i",
    "devices": ["SM-A146P111BC4C31DF75317"],
-   "expiry": "20-04-2026 12:00 PM"
+   "expiry": "09-01-2026 12:00 PM"
 },
    "sadas.reni3106": {
    "password": "$2y$12$TUUcV1xz0L2Dn5UwCpIBLOjlM/zG/LP5Ii7MLmUdctMpfA8/UWXAW",
