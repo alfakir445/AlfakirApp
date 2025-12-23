@@ -944,4 +944,9 @@
    "devices": ["SM-A325F2D408963BB0C6ECC"],
    "expiry": "02-12-2026 12:00 PM"
 },
+   "sadas.chandra": {
+   "password": "$2y$12$yvL/trMaqh05U8vb64FlzOvklFJSdBNDQJX8VtoBpZPLnu1/Wvy6S",
+   "devices": ["CPH1931F61E48F0713D2D04"],
+   "expiry": "03-12-2026 12:00 PM"
+},
 }
