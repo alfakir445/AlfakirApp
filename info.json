@@ -949,4 +949,9 @@
    "devices": ["CPH1931F61E48F0713D2D04"],
    "expiry": "03-12-2026 12:00 PM"
 },
+   "sadas.nana1205": {
+   "password": "$2y$12$5.a4dhlzN3icckseu9S1TO.gn7xyudcDVRnP4aq.JJlgFNjms3m62",
+   "devices": ["VIVO1818CA86042645F9AEF9"],
+   "expiry": "02-12-2026 12:00 PM"
+},
 }
