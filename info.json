@@ -317,12 +317,12 @@
    "sinaga.birin": {
    "password": "$2y$12$l3RA2AVi/ZrjYxnwvEXtGOzauPBipR5L6uRRV1X5J993SBDtNTqq.",
    "devices": ["RMX3938BD2BC6E20BFFF3C2"],
-   "expiry": "20-12-2025 12:00 PM"
+   "expiry": "01-12-2026 12:00 PM"
 },
    "sinaga.ali": {
    "password": "$2y$12$lvHethwnpFUoHWR8Rkc7D.maRKlv0AuIrTRCQI3pNT6M9mSLi9B92",
    "devices": ["ITELP671LADF1A7CAB65E4D92"],
-   "expiry": "20-12-2025 12:00 PM"
+   "expiry": "01-12-2026 12:00 PM"
 },
    "sinaga.a": {
    "password": "$2y$12$Tmh58w7wS3KCqv8RoQenF.YEazsDOjUyYhZ3tpJXsD7A5EXNVXPTu",
@@ -332,7 +332,7 @@
    "sinaga.aziz": {
    "password": "$2y$12$bTOMdn5MkBeslXaYGJZVCudiPr/JZici9ppodmZpApACMlbTAUKIa",
    "devices": ["RMX530367BCF77447289C24"],
-   "expiry": "25-12-2025 12:00 PM"
+   "expiry": "01-12-2026 12:00 PM"
 },
    "sipon.boy": {
    "password": "$2y$12$uLmkyOSDQbuvJup/qjXcwO7Tqcql/hmMSo9IxU22nh/cug5RbWZgC",
