@@ -964,4 +964,9 @@
    "devices": ["SM-A176B9B27201E95C879D1"],
    "expiry": "04-10-2026 12:00 PM"
 },
+   "sma055f04": {
+   "password": "$2y$12$/F27vrctQb2clvtLkt6BbuFqTcEnMNsuh2h1EP1XEubXUeToLh2lS",
+   "devices": ["SM-A055F048454C9FC271847"],
+   "expiry": "01-01-2026 12:00 PM"
+},
 }
