@@ -969,4 +969,9 @@
    "devices": ["SM-A055F048454C9FC271847"],
    "expiry": "01-01-2027 12:00 PM"
 },
+   "sadas.fitri2S": {
+   "password": "$2y$12$IJq3N9jpvGVaVFTL9dQnLeIlUMiBfaWlUYaAkd.avEXAVAsZGoMS.",
+   "devices": ["VIVO1901BB1C0A08E92A5CCD"],
+   "expiry": "01-01-2027 12:00 PM"
+},
 }
