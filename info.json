@@ -974,4 +974,9 @@
    "devices": ["VIVO1901BB1C0A08E92A5CCD"],
    "expiry": "01-01-2027 12:00 PM"
 },
+   "sadas2952": {
+   "password": "$2y$12$rGXtoxjsxeVlsH5Sj4bnpuN1vGTQxUkQ9VAF3OkohbUuoARiZLxQC",
+   "devices": ["CPH259178EDB195E3FB0B40"],
+   "expiry": "04-01-2027 12:00 PM"
+},
 }
