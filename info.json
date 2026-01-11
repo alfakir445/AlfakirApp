@@ -984,4 +984,9 @@
    "devices": ["INFINIXX6532C0A8B094B7FC98107"],
    "expiry": "01-01-2027 12:00 PM"
 },
+   "sipon.feri81": {
+   "password": "$2y$12$euhKbm7Yc0ZxHEgoYnpBjeJwONvx32GkrEfvZaaMSkpWlGVwiG.aC",
+   "devices": ["RMX35210573B58A05B3D421"],
+   "expiry": "30-01-2026 12:00 PM"
+},
 }
