@@ -252,7 +252,7 @@
    "sipon.feri": {
    "password": "$2y$12$0BnuZsNx.ny/k3vqEzEc/O5fxoo9KssM7/oHc3krvWFd/KYzmOBkO",
    "devices": ["RMX3521A0B3803B94AAB5E7"],
-   "expiry": "02-12-2026 12:00 PM"
+   "expiry": "02-12-2025 12:00 PM"
 },
    "sinaga.bangim": {
    "password": "$2y$12$Jr9Y8UQrzCvwOB8wLD4kNeURrxgEoIewQpJ8uPGqBCPr5/rRoSgaO",
@@ -987,12 +987,12 @@
    "sipon.feri81": {
    "password": "$2y$12$euhKbm7Yc0ZxHEgoYnpBjeJwONvx32GkrEfvZaaMSkpWlGVwiG.aC",
    "devices": ["RMX35210573B58A05B3D421"],
-   "expiry": "30-01-2026 12:00 PM"
+   "expiry": "02-12-2026 12:00 PM"
 },
    "sadas.prabu": {
    "password": "$2y$12$CmowPKos0zzerYS9YFBpf.qEWQQfIq05KdUBA4eBg0gYlYpsgcISq",
    "devices": ["V21203EAE3CC733A818B3"],
-   "expiry": "02-02-2027 12:00 PM"
+   "expiry": "02-02-2025 12:00 PM"
 },
    "sadas.angga": {
    "password": "$2y$12$EhJ.t3t3j6oF2qaBEMAFW.nWaZmyZFOvDMIUxrrclexNV7pYB.e46",
