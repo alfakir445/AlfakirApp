@@ -1004,4 +1004,9 @@
    "devices": ["ITELS686LN2F253EF8FF2616FC"],
    "expiry": "27-02-2026 12:00 PM"
 },
+   "sadas.ayi23": {
+   "password": "$2y$12$CUN8sjEQKoCr2JazT/1BoOET3IqcxxBjmndgrIGEtV20TPQfY3yz2",
+   "devices": ["CPH2083251701B5DB2A39D0"],
+   "expiry": "23-01-2026 12:00 PM"
+},
 }
