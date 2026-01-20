@@ -1009,4 +1009,9 @@
    "devices": ["CPH2083251701B5DB2A39D0"],
    "expiry": "23-01-2026 12:00 PM"
 },
+   "sadas937448": {
+   "password": "$2y$12$bHxYEE.Frc9SKWGqNAGvXuUvS8pAMpO0mZTSrxs/MqPiAMdBlgZRC",
+   "devices": ["V211141E7C23BC33960BC"],
+   "expiry": "20-02-2026 12:00 PM"
+},
 }
