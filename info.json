@@ -1014,4 +1014,9 @@
    "devices": ["V211141E7C23BC33960BC"],
    "expiry": "20-02-2026 12:00 PM"
 },
+   "sikap.bonny": {
+   "password": "$2y$12$MU0LQOekXp5N/IF3bQsXzuzwx2KvTP.kzvsQZ3kwPflVT/XOCgXue",
+   "devices": ["INFINIXX6816DBC31EFE71FE845D"],
+   "expiry": "01-01-2027 12:00 PM"
+},
 }
