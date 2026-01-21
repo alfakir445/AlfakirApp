@@ -1019,4 +1019,9 @@
    "devices": ["INFINIXX6816DBC31EFE71FE845D"],
    "expiry": "01-01-2027 12:00 PM"
 },
+   "sadas.dini248": {
+   "password": "$2y$12$PPusu0gCemzRhYtZS.etru7bgUaucvhJwyDAXsFabdg9r/gKF7zGu",
+   "devices": ["CPH218545DDB756C6424F52"],
+   "expiry": "01-01-2027 12:00 PM"
+},
 }
