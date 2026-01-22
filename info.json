@@ -1024,4 +1024,9 @@
    "devices": ["CPH218545DDB756C6424F52"],
    "expiry": "01-01-2027 12:00 PM"
 },
+   "sadas.symsul10": {
+   "password": "$2y$12$.B/P5gqZRd6LdmmdCWvniu9BG4ve3OvJTUCu4VMx82bDqJyptKF.a",
+   "devices": ["23021RAA2YB79148F3F9022AF1"],
+   "expiry": "30-01-2026 12:00 PM"
+},
 }
