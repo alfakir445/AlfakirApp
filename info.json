@@ -1029,4 +1029,9 @@
    "devices": ["23021RAA2YB79148F3F9022AF1"],
    "expiry": "30-01-2026 12:00 PM"
 },
+   "sadas.dani10": {
+   "password": "$2y$12$FlINVOhju5u3pk9X0K7Ij.xfUI6sIBbmykCztQKQMXgXHp5VjXui6",
+   "devices": ["CPH22695DE46BCD661AC778"],
+   "expiry": "01-01-2027 12:00 PM"
+},
 }
