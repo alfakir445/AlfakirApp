@@ -749,25 +749,10 @@
    "devices": ["2410FPCC5GCDC8DF5A6F2C1E24"],
    "expiry": "05-11-2026 12:00 PM"
 },
-   "sadas.suryawan": {
-   "password": "$2y$12$3COsYe5TKV3Y5//sfJnLCujRVlWjB/mQYWawH6kYnDkczaFYQM9S2",
-   "devices": ["REDMI6A22C9BDE0D785B6F"],
-   "expiry": "02-09-2025 12:00 PM"
-},
-   "sadas.surywn2": {
-   "password": "$2y$12$eAYlrxpSyP6eCvDXn/O7m.8j9j0tUjOh5CQJwJ5DNTHnHGeZP8klK",
-   "devices": ["REDMI6A22C9BDE0D785B6F"],
-   "expiry": "23-08-2025 12:00 PM"
-},
    "elin7578": {
    "password": "$2y$12$pLTwCItikDSxNRpJZFKTj.13apxREaknBGqDAj5lJZuj1vq4iLWCm",
    "devices": ["SM-A145FB892F6549B4B1E43"],
    "expiry": "05-06-2026 12:00 PM"
-},
-   "suryawan76": {
-   "password": "$2y$12$YoOHd2j32CaWX7.ek4B8tOPCSV8TWBEJWu.Yicc6iN4xR8m2.89Hy",
-   "devices": ["23129RN51X2FD22FBF8024AD67"],
-   "expiry": "30-06-2026 12:00 PM"
 },
    "saenaga.sudar": {
    "password": "$2y$12$MuiPzNCT6yBfNNGWwYbE8uoEDKG0V541IH0lHDawMzk8Y0JRHZl2i",
