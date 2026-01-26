@@ -239,11 +239,6 @@
    "devices": ["CPH2239B68D40423AC2B151"],
    "expiry": "09-12-2023 12:00 PM"
 },
-   "sadas.nanang": {
-   "password": "$2y$12$vO7yVTpvpaKEczJFgWqFbuOj7db06Lh8PdPQOufDSqJE3UeT7gn4q",
-   "devices": ["CPH2365B8287DA2FF24F65E"],
-   "expiry": "09-12-2026 12:00 PM"
-},
    "sipon.bony1": {
    "password": "$2y$12$3C8iQHrEGUm5kmUm7YW6UuZ6zKVvGLhVCLNnpjro2d3hlvHaLwOu6",
    "devices": ["MIA14C42A4E4425AC481"],
