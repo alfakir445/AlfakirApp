@@ -234,11 +234,6 @@
    "devices": ["CPH2631CEF58C7A953871F1"],
    "expiry": "18-07-2026 12:00 PM"
 },
-   "nanang.suginda": {
-   "password": "$2y$12$3K1sk8.OPsddqnwHarAESuHHJW0Cfr2ywfPmx5zgmuIIXUR1rfF8u",
-   "devices": ["CPH2239B68D40423AC2B151"],
-   "expiry": "09-12-2023 12:00 PM"
-},
    "sipon.bony1": {
    "password": "$2y$12$3C8iQHrEGUm5kmUm7YW6UuZ6zKVvGLhVCLNnpjro2d3hlvHaLwOu6",
    "devices": ["MIA14C42A4E4425AC481"],
