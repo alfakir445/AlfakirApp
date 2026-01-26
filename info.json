@@ -1009,4 +1009,9 @@
    "devices": ["CPH22695DE46BCD661AC778"],
    "expiry": "01-01-2027 12:00 PM"
 },
+   "sadas.rohman26": {
+   "password": "$2y$12$nBuZRh31q15io/tDiLwsAeJdDJ6jnZauh.BnzTRz9.ZRX2fy8CVKC",
+   "devices": ["CPH28198A0BDEA2F7DB11BA"],
+   "expiry": "04-01-2027 12:00 PM"
+},
 }
