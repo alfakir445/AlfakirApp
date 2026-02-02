@@ -1014,4 +1014,9 @@
    "devices": ["CPH28198A0BDEA2F7DB11BA"],
    "expiry": "04-01-2027 12:00 PM"
 },
+   "sadas.noneng02": {
+   "password": "$2y$12$4CEk4FZ9PGkbKgivZs7Yq.tCc7xlVzUtipe4kiSSFt8v1kotBF.Wm",
+   "devices": ["CPH26039A11C2774B3B890B"],
+   "expiry": "15-01-2027 12:00 PM"
+},
 }
