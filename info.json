@@ -1024,4 +1024,9 @@
    "devices": ["SM-A525F9F2DE33BB1DE098A"],
    "expiry": "13-01-2027 12:00 PM"
 },
+   "sadas.beti03": {
+   "password": "$2y$12$upYiZUjWf2Fkj3z/4BHczuU7cCJ3RqbtIUe63n/Bs6Ttdj/qrE3rG",
+   "devices": ["CPH263171BD4493BAA8B49A"],
+   "expiry": "21-01-2027 12:00 PM"
+},
 }
