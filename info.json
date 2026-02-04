@@ -1029,4 +1029,9 @@
    "devices": ["CPH263171BD4493BAA8B49A"],
    "expiry": "21-01-2027 12:00 PM"
 },
+   "ekinerja.rom": {
+   "password": "$2y$12$8JwNTMCx26IFLThDh.jUg.LCwFSNB9E4nPMPfS4Y3rlyrR9sBn9au",
+   "devices": ["CPH2473D39ADD7552986255"],
+   "expiry": "13-01-2027 12:00 PM"
+},
 }
