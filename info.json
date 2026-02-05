@@ -1044,4 +1044,9 @@
    "devices": ["CPH215982643B7117C6136F"],
    "expiry": "20-01-2027 12:00 PM"
 },
+   "ekinerja.arif": {
+   "password": "$2y$12$64Lc07IH.105Yd99b7YMKOz9PVB4dG403qBZ.xgf8KMmN1h.SgXeC",
+   "devices": ["7039E732567F8A49CDC5"],
+   "expiry": "13-01-2027 12:00 PM"
+},
 }
