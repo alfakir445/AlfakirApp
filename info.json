@@ -1039,4 +1039,9 @@
    "devices": ["INFINIXX6833BAD84F5F4A7356849"],
    "expiry": "15-01-2027 12:00 PM"
 },
+   "ekinerja.indah": {
+   "password": "$2y$12$vAuYh.gncTiDEMiBv1HcnecEIsiyrBuLCdZyg8hT5Z23GYfPTeoHO",
+   "devices": ["CPH215982643B7117C6136F"],
+   "expiry": "20-01-2027 12:00 PM"
+},
 }
