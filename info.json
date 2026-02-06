@@ -1054,4 +1054,9 @@
    "devices": ["CPH2113DBC5098F44533608"],
    "expiry": "21-01-2027 12:00 PM"
 },
+   "ekinerja.brahim": {
+   "password": "$2y$12$cTbxmzY2Fakz.gyNAfkJ6e.OcG2DTPfiq2G0E91wsoY8LjYB4WHHm",
+   "devices": ["24117RN76O902B578D38824348"],
+   "expiry": "21-01-2027 12:00 PM"
+},
 }
