@@ -1059,4 +1059,9 @@
    "devices": ["24117RN76O902B578D38824348"],
    "expiry": "21-01-2027 12:00 PM"
 },
+   "sadas.adenina": {
+   "password": "$2y$12$aKInMJxGFuWykaBckTuYweRnTVwoxuibHsEkykbFvDZnOhhgxmeUG",
+   "devices": ["VIVO19012BCC28590CB1888F"],
+   "expiry": "21-01-2027 12:00 PM"
+},
 }
