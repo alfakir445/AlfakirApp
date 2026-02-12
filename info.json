@@ -1069,4 +1069,9 @@
    "devices": ["CPH20154B7124754132EB03"],
    "expiry": "15-01-2027 12:00 PM"
 },
+   "ekinerja.rey": {
+   "password": "$2y$12$ZsqQKTln8rM1igGX.ai8vOWjg7Ogdvt3DQWNGnPivy.HOtYRtg.2C",
+   "devices": ["SM-A750GN7E0929C047B0F74E"],
+   "expiry": "09-02-2027 12:00 PM"
+},
 }
