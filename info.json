@@ -499,15 +499,10 @@
    "devices": ["CPH232581E1E95A41B02501"],
    "expiry": "23-07-2026 12:00 PM"
 },
-   "disy_ou123": {
-   "password": "$2y$12$EcB5p7QpOm7atZc9fTM/8ef6t3WlF8eM1LS258vhrnUXddAj6xGZS",
-   "devices": ["CPH1725INTSBYTKFQZSHASK"],
-   "expiry": "25-05-2026 12:00 PM"
-},
    "disysipedro": {
    "password": "$2y$12$.BDPB2gXdu4pd4g.vbPV8eGhnQvohHHl.f9cXchbL32.6Z9yC6wUq",
    "devices": ["CPH1725INTSBYTKFQZSHASK"],
-   "expiry": "19-06-2026 12:00 PM"
+   "expiry": "19-01-2027 12:00 PM"
 },
    "sadas.mamun": {
    "password": "$2y$12$A7Qy3ne.E8b3QYal1fb41u98WNoAl8.iQATigCy9wc9IejADffjkK",
