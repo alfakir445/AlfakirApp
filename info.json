@@ -1069,4 +1069,9 @@
    "devices": ["SM-A750GN7E0929C047B0F74E"],
    "expiry": "09-02-2027 12:00 PM"
 },
+   "ekinerja.jefri": {
+   "password": "$2y$12$eOQkqCvtgFKFp24bydPajOrB98RmzCh5Qzsc6ZbXcawwvf06cBdVS",
+   "devices": ["CPH2209BC260735043C01EC"],
+   "expiry": "10-02-2027 12:00 PM"
+},
 }
