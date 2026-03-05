@@ -1079,4 +1079,9 @@
    "devices": ["CPH2209A9EF10513DEF9D77"],
    "expiry": "10-02-2027 12:00 PM"
 },
+   "sadas.nopi708": {
+   "password": "$2y$12$ZJ8U9TZqs9V5/iR0I6YDWekshc.FeKqL07ll8fHrzUa5Kc2GaE.2W",
+   "devices": ["CPH23339F5C5EE554596ED8"],
+   "expiry": "09-03-2027 12:00 PM"
+},
 }
