@@ -1069,14 +1069,14 @@
    "devices": ["SM-A750GN7E0929C047B0F74E"],
    "expiry": "09-02-2027 12:00 PM"
 },
-   "ekinerja.jefri": {
-   "password": "$2y$12$eOQkqCvtgFKFp24bydPajOrB98RmzCh5Qzsc6ZbXcawwvf06cBdVS",
-   "devices": ["CPH2209BC260735043C01EC"],
-   "expiry": "10-02-2027 12:00 PM"
-},
    "sadas.eri0226": {
    "password": "$2y$12$.I1ghbL2cXakmxc0QFcxRukd8l.Uf8dkRPWcMwXElDqgpgI6FX6fO",
    "devices": ["VIVO192029F04C05629FD5B6"],
    "expiry": "03-02-2027 12:00 PM"
+},
+   "ekinerja.jefri": {
+   "password": "$2y$12$BkHgCMC3GC0DFKqcaUiOKuXwVYCNs1gflV8AJDe1xYg/jWDtD06lG",
+   "devices": ["CPH2209A9EF10513DEF9D77"],
+   "expiry": "10-02-2027 12:00 PM"
 },
 }
