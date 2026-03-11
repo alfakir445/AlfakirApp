@@ -1084,4 +1084,9 @@
    "devices": ["CPH23339F5C5EE554596ED8"],
    "expiry": "09-03-2027 12:00 PM"
 },
+   "sadas.yopi10": {
+   "password": "$2y$12$Inwzw6RdMBiGY3GoTdXxYOWEPIJPIZ.FMQzjI2Ft5rkry2QSpaQEa",
+   "devices": ["SM-A356E20E8254A59679E1A"],
+   "expiry": "03-03-2027 12:00 PM"
+},
 }
