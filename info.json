@@ -1089,4 +1089,9 @@
    "devices": ["SM-A356E20E8254A59679E1A"],
    "expiry": "03-03-2027 12:00 PM"
 },
+   "sipon.aufa": {
+   "password": "$2y$12$Fwo273yN1S1ORhTNxRtOpebbsAfKw66yerpJ1z0T1PRvqPfm8guOK",
+   "devices": ["TECNOKM743600C737B28D5AB"],
+   "expiry": "30-06-2026 12:00 PM"
+},
 }
