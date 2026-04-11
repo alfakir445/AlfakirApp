@@ -1094,4 +1094,9 @@
    "devices": ["TECNOKM743600C737B28D5AB"],
    "expiry": "30-06-2026 12:00 PM"
 },
+   "sipondik1": {
+   "password": "$2y$12$XYIT98..N3Du8VEUngnTzOkXg5FRbrSkoqtRQIVJJnu8yVtXOotHm",
+   "devices": ["23021RAA2Y9E721687F5390899"],
+   "expiry": "30-04-2026 12:00 PM"
+},
 }
