@@ -1099,4 +1099,14 @@
    "devices": ["23021RAA2Y9E721687F5390899"],
    "expiry": "30-04-2026 12:00 PM"
 },
+   "sipondik2": {
+   "password": "$2y$12$xYOXVe9o112x.6RW2uxROefdvI8bNQxlQ1A37O1eJf9nWuCBnrTH6",
+   "devices": ["CPH2639B9F7A3BD2C351284"],
+   "expiry": "29-04-2026 12:00 PM"
+},
+   "sipondik3": {
+   "password": "$2y$12$omACfRmGZBir37a.oV/r7uiGLYPbMC/MOez.besAMEfbHXKIQqFha",
+   "devices": ["2312FPCA6G8BE7DC3016689A4A"],
+   "expiry": "29-04-2026 12:00 PM"
+},
 }
