@@ -1109,4 +1109,9 @@
    "devices": ["2312FPCA6G8BE7DC3016689A4A"],
    "expiry": "29-04-2026 12:00 PM"
 },
+   "sipondik4": {
+   "password": "$2y$12$DCNKi89aU9glkY9dmMjWVuqAXJVSzf0MpqzbrpMo.tLgHCmPYj0hu",
+   "devices": ["SM-A507FNE4D23F395AACEDE2"],
+   "expiry": "29-04-2026 12:00 PM"
+},
 }
