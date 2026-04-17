@@ -1097,21 +1097,26 @@
    "sipondik1": {
    "password": "$2y$12$XYIT98..N3Du8VEUngnTzOkXg5FRbrSkoqtRQIVJJnu8yVtXOotHm",
    "devices": ["23021RAA2Y9E721687F5390899"],
-   "expiry": "30-04-2026 12:00 PM"
+   "expiry": "30-03-2027 12:00 PM"
 },
    "sipondik2": {
    "password": "$2y$12$xYOXVe9o112x.6RW2uxROefdvI8bNQxlQ1A37O1eJf9nWuCBnrTH6",
    "devices": ["CPH2639B9F7A3BD2C351284"],
-   "expiry": "29-04-2026 12:00 PM"
+   "expiry": "29-03-2027 12:00 PM"
 },
    "sipondik3": {
    "password": "$2y$12$omACfRmGZBir37a.oV/r7uiGLYPbMC/MOez.besAMEfbHXKIQqFha",
    "devices": ["2312FPCA6G8BE7DC3016689A4A"],
-   "expiry": "29-04-2026 12:00 PM"
+   "expiry": "29-03-2027 12:00 PM"
 },
    "sipondik4": {
    "password": "$2y$12$DCNKi89aU9glkY9dmMjWVuqAXJVSzf0MpqzbrpMo.tLgHCmPYj0hu",
    "devices": ["SM-A507FNE4D23F395AACEDE2"],
+   "expiry": "29-03-2027 12:00 PM"
+},
+   "siponkes1": {
+   "password": "$2y$12$Y0SuIrpBrYOmR0lD2mqJWO//0TqINqxMrr3QsV7JZ8Moh1xYjGe9K",
+   "devices": ["V2327894C8114B40CFFFE"],
    "expiry": "29-04-2026 12:00 PM"
 },
 }
