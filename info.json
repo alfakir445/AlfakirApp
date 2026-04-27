@@ -972,7 +972,7 @@
    "itels686l": {
    "password": "$2y$12$NzTdb1IYnzfkFrP4qvjdZOFi5vCHDCMXI9EyKRTy8d/cIHjKw0sbm",
    "devices": ["ITELS686LN2F253EF8FF2616FC"],
-   "expiry": "27-04-2026 12:00 PM"
+   "expiry": "27-10-2026 12:00 PM"
 },
    "sadas.ayi23": {
    "password": "$2y$12$CUN8sjEQKoCr2JazT/1BoOET3IqcxxBjmndgrIGEtV20TPQfY3yz2",
@@ -1117,6 +1117,6 @@
    "siponkes1": {
    "password": "$2y$12$Y0SuIrpBrYOmR0lD2mqJWO//0TqINqxMrr3QsV7JZ8Moh1xYjGe9K",
    "devices": ["V2327894C8114B40CFFFE"],
-   "expiry": "29-04-2026 12:00 PM"
+   "expiry": "29-03-2027 12:00 PM"
 },
 }
