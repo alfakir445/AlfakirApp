@@ -1119,4 +1119,9 @@
    "devices": ["V2327894C8114B40CFFFE"],
    "expiry": "29-03-2027 12:00 PM"
 },
+   "malang.anton": {
+   "password": "$2y$12$BCcqQcNFCCS7KUQQY2I6j.LSRhNPU8xmRZyU3M04GvXODnXpxWwH.",
+   "devices": ["CPH1909SKGEZSZLI75PTWAM"],
+   "expiry": "14-05-2026 12:00 PM"
+},
 }
