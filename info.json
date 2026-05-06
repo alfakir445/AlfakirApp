@@ -1124,4 +1124,9 @@
    "devices": ["CPH1909SKGEZSZLI75PTWAM"],
    "expiry": "14-05-2026 12:00 PM"
 },
+   "great.dicky": {
+   "password": "$2y$12$1lQJu.qy9j22I04EEuQvLeqXoQmJkjciSWpbKRjeAOGFErcocqkGW",
+   "devices": ["23108RN04Y7637FAD7B54C5301"],
+   "expiry": "21-05-2027 12:00 PM"
+},
 }
