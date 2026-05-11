@@ -1122,16 +1122,21 @@
    "malang.anton": {
    "password": "$2y$12$BCcqQcNFCCS7KUQQY2I6j.LSRhNPU8xmRZyU3M04GvXODnXpxWwH.",
    "devices": ["CPH1909SKGEZSZLI75PTWAM"],
-   "expiry": "14-05-2026 12:00 PM"
+   "expiry": "14-05-2027 12:00 PM"
 },
    "great.dicky": {
    "password": "$2y$12$1lQJu.qy9j22I04EEuQvLeqXoQmJkjciSWpbKRjeAOGFErcocqkGW",
    "devices": ["23108RN04Y7637FAD7B54C5301"],
-   "expiry": "21-05-2027 12:00 PM"
+   "expiry": "10-05-2027 12:00 PM"
 },
    "sadas.dedes": {
    "password": "$2y$12$rnbxbF5k37k3pbdlFmc2VOd6nrDRT4TjVN45l9zdt1oo7ZsBkV81K",
    "devices": ["VIVO1901D5723AE9B721B04C"],
-   "expiry": "29-05-2026 12:00 PM"
+   "expiry": "10-05-2027 12:00 PM"
+},
+   "jatim.muham": {
+   "password": "$2y$12$/.aYvBRcnzdxsAAI4DJvt.DZf/.CI6TSD3QIG128F4llK1.j0Losy",
+   "devices": ["REDMINOTE830052FABDB64B43E"],
+   "expiry": "04-05-2027 12:00 PM"
 },
 }
