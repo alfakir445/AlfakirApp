@@ -919,10 +919,11 @@
    "devices": ["CPH1931F61E48F0713D2D04"],
    "expiry": "03-12-2026 12:00 PM"
 },
-   "sadas.nana1205": {
-   "password": "$2y$12$5.a4dhlzN3icckseu9S1TO.gn7xyudcDVRnP4aq.JJlgFNjms3m62",
-   "devices": ["VIVO1818CA86042645F9AEF9"],
+   "sadas.taryana": {
+   "password": "$2y$12$1XW5f1AgXmW/LfGjEWpr0.l67FxK/q5EfDgie5sWlN2IvXQMQNTHu",
+   "devices": ["CPH2529672C2A66567C689A"],
    "expiry": "02-12-2026 12:00 PM"
+},
 },
    "satri.sekayun2": {
    "password": "$2y$12$Av.ibPVW6.nyqW6MeF61qOJhFV3V/OepTDBong/RXW7xOHBpdwA5u",
