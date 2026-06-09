@@ -1139,4 +1139,9 @@
    "devices": ["INFINIXX68737F14FF44C8406009"],
    "expiry": "21-05-2027 12:00 PM"
 },
+   "sipon.romizus9": {
+   "password": "$2y$12$roElsrc1BNqYEql3Z3rTweIy8DpSA8daPUmFmkf9VCSSHY4ICm.GC",
+   "devices": ["INFINIXX6840FB9761F5DD32FECA"],
+   "expiry": "03-06-2027 12:00 PM"
+},
 }
