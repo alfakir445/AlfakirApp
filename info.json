@@ -4,11 +4,6 @@
    "devices": ["V22389DCA6AACDE7367AD"],
    "expiry": "04-04-2027 12:59 PM"
 },
-   "sunsun123456789": {
-   "password": "$2y$12$RLONzD7B7Y8PJvUWWhgDc.NjJ6FYQbGQh8qSBeJiGgp.7oOB35drK",
-   "devices": ["SM-A207FD07BB0BC246176D8"],
-   "expiry": "26-10-2025 12:59 PM"
-},
    "sunsun12345i": {
    "password": "$2y$12$OP.LnVRqNbcw4jV1lmNwYesimLcH2Z8k22B3gYWkWpjzbBcvdi9r2",
    "devices": ["SM-A145FD0333D4A696F8636"],
@@ -54,11 +49,6 @@
    "devices": ["SM-A336E3B5A65E8FF2FA3F9"],
    "expiry": "15-07-2026 12:59 PM"
 },
-   "dedeh457": {
-   "password": "$2y$12$9KqBOe7LMQPOc3NuZLpQFuQRb4H10jmEDLZ6rQ./AzXWIiWak2RTm",
-   "devices": ["2312DRA50GC890ADEE361A60D1"],
-   "expiry": "29-10-2025 12:00 PM"
-},
    "asepdede01": {
    "password": "$2y$12$qEg2BIMfzev6zC2xnaqc6eVH89PWEYQkRHUM7hBnqkL9xmpMZE/ue",
    "devices": ["CPH21598A89C75E89F2AAB6"],
@@ -99,40 +89,20 @@
    "devices": ["M2010J19SG8482E5C78BA946DC"],
    "expiry": "10-05-2027 12:00 PM"
 },
-   "nana12345": {
-   "password": "$2y$12$XOKeO9/6Y7eBEpv9fD7cOuhuU1uFo43Ltue4YAnfl62qX5HiwDcmu",
-   "devices": ["V2029586A2EA5E153165F"],
-   "expiry": "28-09-2025 12:00 PM"
-},
    "susi5678": {
    "password": "$2y$12$UsQspG6QBxYPbY5sjacq0OLViDhjGIck2lZIeff7S/1/6Dwtbuxpu",
    "devices": ["SM-A325FDC572733285B6990"],
    "expiry": "04-08-2026 12:00 PM"
-},
-   "lusebenita": {
-   "password": "$2y$12$g.yCKNV0QSF64afV0E.EzeWjuKJiY/CxrtMqLUn/woKWuAkGbVwQi",
-   "devices": ["SM-A047FEC371E38E3D0FA53"],
-   "expiry": "23-08-2025 12:00 PM"
 },
    "yen12345": {
    "password": "$2y$12$j8VDDhTA3gu0/fma4wSTkO1wcNshyqOaRsoFRUB4foMHWvXoibYYC",
    "devices": ["SM-A155F41BB8F52192106DB"],
    "expiry": "08-02-2027 02:00 PM"
 },
-   "rusmini123": {
-   "password": "$2y$12$sRQtPeQFZScuzwbfg39VWuZkLW7BQvqBHPxgohlxF7ZbLTBN.94jK",
-   "devices": ["CPH2083251701B5DB2A39D0"],
-   "expiry": "31-12-2025 12:00 PM"
-},
    "rudi12345": {
    "password": "$2y$12$bZ3kn.APfuDw9ho6dntU9.kGBo61aWHyrxZ7gJ2K0JqbiT.1RHkF6",
    "devices": ["SM-A145FCC2B25C1B3A1B3D6"],
    "expiry": "30-07-2026 12:00 PM"
-},
-   "ismawati": {
-   "password": "$2y$12$smlK7iIP9jxKQYMdSlF42OmYSRxmvi0VY7pHNwnyAixLEe1Ik3Xm2",
-   "devices": ["23124RA7EO630036DC82DBD240"],
-   "expiry": "21-11-2025 12:00 PM"
 },
    "nengeris12": {
    "password": "$2y$12$oA9JG8RZgv0geRZpJyW.OuHmt4MeEoq3l/xYRExmFgz7B3RsBlj8C",
@@ -144,21 +114,6 @@
    "devices": ["M2103K19PGB2219600C0192D12"],
    "expiry": "02-10-2026 12:00 PM"
 },
-   "siponrahman": {
-   "password": "$2y$12$JUdSgePKYZTJFCQ5sLNyMOpSP39uBLfolmjhgC2O3YHLipcj1vHGe",
-   "devices": ["SM-A715F6A062C08DAA71085"],
-   "expiry": "27-06-2025 12:00 PM"
-},
-   "epapua.hendrikus": {
-   "password": "$2y$12$vJoEm7icJTnKj9QWjRgI6..ftoo840rNaVl9xn8HHtMdH6UgzytAq",
-   "devices": ["SM-N960F5258CD4E746D90C1"],
-   "expiry": "31-10-2025 12:00 PM" 
-},
-   "epapua.hermelina": {
-   "password": "$2y$12$NCKNunTMXBrOYWpk.e7Jl.sp.g6INf0f50Rwrm5aCHATUNXllW5gK",
-   "devices": ["V20298C9049CAD9D2234A"],
-   "expiry": "31-10-2025 12:00 PM"
-},
    "wiwinhendarsih": {
    "password": "$2y$12$YE7zj1.idnT980TsaM8mwOnMTXgNLShfk91U1LFjBmmIMf//UFFAq",
    "devices": ["CPH27014BFF7828E4D52DB4"],
@@ -168,11 +123,6 @@
    "password": "$2y$12$ivIR/os3DGtmypb2tlUy7ufHFLUWPxgRvm5cwoLgdCqKh8WA0n/Sa",
    "devices": ["RMX3085E2E8D604B5FB1608"],
    "expiry": "28-05-2027 12:00 PM"
-},
-   "saenaga.aziz": {
-   "password": "$2y$12$Tn.Ctx5ONknd4f2GxCOYzui5LVaCieOjg3dMG/wOTGNG6fq1wxklu",
-   "devices": ["M2004J19C94E5237D91204B60"],
-   "expiry": "31-10-2025 12:00 PM"
 },
    "kmob.tamin": {
    "password": "$2y$12$Tx7g8Sit90oRqX8M29RAnez5NnvDgYybIx6lUT7ksVyMxNAFNxWV6",
@@ -188,11 +138,6 @@
    "password": "$2y$12$49ymLr7Lm.H.SlicbhbnnOmKfBSL4oq9SeZMoms884v5JNU/fT5K.",
    "devices": ["RMX206118E928A4AED31AC4"],
    "expiry": "05-10-2026 12:00 PM"
-},
-   "bombana.idhar2": {
-   "password": "$2y$12$tLOcBPHDtqVRI612LPekF.iHw4eEI0pXLpZXtT63250GX8L/PMqLO",
-   "devices": ["23124RA7EOF286A565CFF03846"],
-   "expiry": "31-10-2025 12:00 PM"
 },
    "sadas.ika": {
    "password": "$2y$12$ckSBfQu2/DQczvnswJpmVuKGvDsjQrO./q0cuPdxo1JtD7zhOY1tm",
@@ -229,16 +174,6 @@
    "devices": ["CPH2631CEF58C7A953871F1"],
    "expiry": "18-07-2026 12:00 PM"
 },
-   "sipon.bony1": {
-   "password": "$2y$12$3C8iQHrEGUm5kmUm7YW6UuZ6zKVvGLhVCLNnpjro2d3hlvHaLwOu6",
-   "devices": ["MIA14C42A4E4425AC481"],
-   "expiry": "19-07-2025 12:00 PM"
-},
-   "sipon.feri": {
-   "password": "$2y$12$0BnuZsNx.ny/k3vqEzEc/O5fxoo9KssM7/oHc3krvWFd/KYzmOBkO",
-   "devices": ["RMX3521A0B3803B94AAB5E7"],
-   "expiry": "02-12-2025 12:00 PM"
-},
    "sinaga.bangim": {
    "password": "$2y$12$Jr9Y8UQrzCvwOB8wLD4kNeURrxgEoIewQpJ8uPGqBCPr5/rRoSgaO",
    "devices": ["INFINIXX650CB0F1DC73F43F7CEE"],
@@ -264,35 +199,10 @@
    "devices": ["CPH2477F6211D8704473BF4"],
    "expiry": "17-11-2026 12:00 PM"
 },
-   "ninda.bengkulu": {
-   "password": "$2y$12$bTFtIy0JdUAO7cj1Oaputul84LWuMUERkGjezyxjJbDY.74HPbagm",
-   "devices": ["INE-LX2495F02DD6A81BAB4"],
-   "expiry": "20-09-2025 12:00 PM"
-},
-   "sipon.nirwan": {
-   "password": "$2y$12$abgVW0tG0y74Dth0heQb5eGvsMyScCPAkAwIMaF2/iIS4usPV2gHC",
-   "devices": ["INFINIXX6531B5A5EBE1D0F157370"],
-   "expiry": "01-10-2025 12:00 PM"
-},
-   "sipon.david": {
-   "password": "$2y$12$YtMolCLiWrNQWb7jKOwqHe7mjxy3rvHb3Yp0td7Yiygz7a29BLPgm",
-   "devices": ["SM-A135F5DF488810C5106A4"],
-   "expiry": "12-11-2025 12:00 PM"
-},
-   "office.riko2": {
-   "password": "$2y$12$pNxR9QymuNEje9gaKW8jc.vWwL3iXLwiFAyz8EpTEVT0tnZC2bBnO",
-   "devices": ["INFINIXX683748F1034CA644CCB5"],
-   "expiry": "12-07-2025 12:00 PM"
-},
    "sadas.rusyani": {
    "password": "$2y$12$fqE3g90GWevgY448BV9lHOL7JjYATt1txWcb4UzcjSMWObTnwVERa",
    "devices": ["V2204DA18B9473B33CB96"],
    "expiry": "01-12-2026 12:00 PM"
-},
-   "h.dju123": {
-   "password": "$2y$12$CF2ovZWfDa2lB7yPugtW7uHF5vmkwXxscimpqMcltlc7b8e0qUGJ.",
-   "devices": ["SM-M315FF0F4BECC508C71A7"],
-   "expiry": "18-10-2025 12:00 PM"
 },
    "sadas.mimin": {
    "password": "$2y$12$5p1565tJk4lJpn3WvM6jVeqaVtrHze3dJ6R70fCGpnh0QG7r.W1iy",
@@ -308,11 +218,6 @@
    "password": "$2y$12$lvHethwnpFUoHWR8Rkc7D.maRKlv0AuIrTRCQI3pNT6M9mSLi9B92",
    "devices": ["ITELP671LADF1A7CAB65E4D92"],
    "expiry": "01-12-2026 12:00 PM"
-},
-   "sinaga.a": {
-   "password": "$2y$12$Tmh58w7wS3KCqv8RoQenF.YEazsDOjUyYhZ3tpJXsD7A5EXNVXPTu",
-   "devices": ["VIVO20078A41C963D214530A"],
-   "expiry": "20-12-2020 12:00 PM"
 },
    "sinaga.aziz": {
    "password": "$2y$12$bTOMdn5MkBeslXaYGJZVCudiPr/JZici9ppodmZpApACMlbTAUKIa",
@@ -339,16 +244,6 @@
    "devices": ["SM-A155FDEB1D8D4989E1930"],
    "expiry": "10-01-2027 12:00 PM"
 },
-   "h.dju1234": {
-   "password": "$2y$12$RPHTYgRbm3wmhokrp0oiReXKKYvY.U8pBwL8zvFd2MePHm15LYJ6a",
-   "devices": ["SM-A155FD360A2A71280A3AF"],
-   "expiry": "11-07-2025 12:00 PM"
-},
-   "epapua.suryani": {
-   "password": "$2y$12$Cxt5fC9o/XAr7u0z3q2mBuQMzzOLJYSX8vq4cVt86OJtP2PxZxRTG",
-   "devices": ["SM-J415F3E3C689E"],
-   "expiry": "18-07-2025 12:00 PM"
-},
    "sipon.nirwan1": {
    "password": "$2y$12$LUo8sMEAqVPQKNukonqCJO6XgL3t47EVnkDyK/aMDlwk1L7q2m6QS",
    "devices": ["INFINIXX6531BEB42948E63AF93AD"],
@@ -374,30 +269,10 @@
    "devices": ["CPH2387B573AAAC67096985"],
    "expiry": "17-08-2026 12:00 PM"
 },
-   "dian.sadas": {
-   "password": "$2y$12$wqSNHopfZXwB9dojkjD75.Iot3153876iHHf5XnFqAahrYf2uwSIG",
-   "devices": ["CPH212768EB2CE96F885D11"],
-   "expiry": "21-12-2025 12:00 PM"
-},
-   "bombana.andy": {
-   "password": "$2y$12$KMd.RgEdsNnV8/dvDwdUGOW4g.5PI79G94Rp9MO7XEY4VG3v4HP9C",
-   "devices": ["SM-A730F5912E110A067FFB5"],
-   "expiry": "19-06-2025 12:00 PM"
-},
    "sadas_beni": {
    "password": "$2y$12$AgiEy/WTx2gDlU/OLme44ufugVtqKUVtykwKrIwGp0NTQtHMHCGp.",
    "devices": ["CPH2343B3D351D3EA217530"],
    "expiry": "06-11-2026 12:00 PM"
-},
-   "sipon.ashshub": {
-   "password": "$2y$12$edOaBUfdp8Ta0LETbzKX/.860XD4BOTKE6uAPEiC0L5j26y7W6nLi",
-   "devices": ["V22058AD5EEDD191A8C7A"],
-   "expiry": "20-11-2025 12:00 PM"
-},
-   "sadas.ade": {
-   "password": "$2y$12$UyqXSqO/VEBQMvLqn1bwluRyPpeTZxRM3bn9h.ABrMoaoM0sRr9vK",
-   "devices": ["V235208A4E9B77330EA8D"],
-   "expiry": "17-07-2025 12:00 PM"
 },
    "s_pes123": {
    "password": "$2y$12$uWZL.garVuc5OTwpthkdSutyGHl.ckQ8Ht70Sc5Fx7kU9BvLagUl.",
@@ -449,11 +324,6 @@
    "devices": ["VIVO20195769F756EC2354AD"],
    "expiry": "19-03-2026 12:00 PM"
 },
-   "sadas.yayan": {
-   "password": "$2y$12$P52.e3vUO7OvPcJjSDw/yOHa0Y82AYZ6UO5OKNXvFaQcBWCV1reve",
-   "devices": ["V2026AD35F128EE1C87B2"],
-   "expiry": "27-09-2025 12:00 PM"
-},
    "presensi.nely": {
    "password": "$2y$12$E6GUyO4e0Kn1bw3xdXUR/Ojip8vRVDaWHpA7InLfi7FUh3YmqN2YG",
    "devices": ["SM-A146PF8525670A5397140"],
@@ -468,11 +338,6 @@
    "password": "$2y$12$PBScgNXCjNOjOQsaebG2.urJ2CYMqcPAyWquRHMCbVX6MgdLk9nsa",
    "devices": ["M2101K6G595B229E16169C67"],
    "expiry": "28-05-2027 12:00 PM"
-},
-   "sadas.wiwit": {
-   "password": "$2y$12$bkBpp.maS33Rk05Xkc2d7OIXIx/f2rk.JK9/ts5eCe/Y9pCRk/T2m",
-   "devices": ["INFINIXX68534DC2CA0B5D33A5A7"],
-   "expiry": "09-08-2025 12:00 PM"
 },
    "sadas.nevi": {
    "password": "$2y$12$eitlKHP2M9Ra2gOKSLKx7etuc9V3iPWyBEuyr0V/pUgQw.JXC0KBe",
@@ -514,11 +379,6 @@
    "devices": ["SM-A346E9FF9638B812E9EED"],
    "expiry": "16-03-2026 12:00 PM"
 },
-   "sadas.nunung": {
-   "password": "$2y$12$lMAG9x/LfVBHIdCxPIwFVu8fOEaKQU.yrOwxVVggKU6VcFZLL0ICm",
-   "devices": ["SM-A507FN0801538227651687"],
-   "expiry": "29-08-2025 12:00 PM"
-},
    "sadas.komarudin": {
    "password": "$2y$12$MU6XBk2e3GlPZO2g5rdw0.G1Yrf2Vnuu8t39II.R2K348vwsmLe5K",
    "devices": ["V2043E55A68DB7DF70A48"],
@@ -533,11 +393,6 @@
    "password": "$2y$12$SH1cxNemMgbUGIopnWBYA.PIyuSiiSWsRsAvs4P9y8UK5Omqm63vG",
    "devices": ["CPH260368F5AD5D03C2A509"],
    "expiry": "20-04-2026 12:00 PM"
-},
-   "sadas.turaeti": {
-   "password": "$2y$12$oltjWiFpMYLrlyiNABdkLe.oVkuaTHMbC4luHSM4pXI.LV.FnSMTa",
-   "devices": ["CPH2061E6ADE0C7710A2F74"],
-   "expiry": "12-07-2025 12:00 PM"
 },
    "sipon.dede": {
    "password": "$2y$12$g3lHPPGNziTsIF8lOFuaOupCzivWacxOR85kWeqExdb7pXokUe./W",
@@ -564,11 +419,6 @@
    "devices": ["INFINIXX678B3D001E49426A0BD2"],
    "expiry": "19-10-2026 12:00 PM"
 },
-   "sadas.topik123": {
-   "password": "$2y$12$D1jTOZIzFfhZEt493nFmq.TGVFfLBtocRa/783TGF/RYif2MrbRxq",
-   "devices": ["RMX3231126104421A51B0C0"],
-   "expiry": "20-09-2025 12:00 PM"
-},
    "sadas.siti65": {
    "password": "$2y$12$D7aG.t0yzBt1Rgn/2OrxauuiG4E0xY5lF43M1Phu4to6k4lP0QGIO",
    "devices": ["V2310C5A2143B513BE015"],
@@ -584,30 +434,15 @@
    "devices": ["CPH2127185F9614A039773B"],
    "expiry": "02-10-2026 12:00 PM"
 },
-   "alap2.rokis": {
-   "password": "$2y$12$T/AXvXLFcXKYvcvhEzzNVuZKs4fQLGX6qwiD.kuWdPt6j0GP3mK22",
-   "devices": ["SM-J415F7433A19CB562CAE0"],
-   "expiry": "05-07-2025 12:00 PM"
-},
    "dicky.arifiyanto": {
    "password": "$2y$12$FyAx2k/v8iIdOzweEHt6IugFKlgEQpXw7Pky/pPe0QujhTTtL91yC",
    "devices": ["23108RN04Y7637FAD7B54C5301"],
    "expiry": "10-12-2026 12:00 PM"
 },
-   "sadas.kurniadi": {
-   "password": "$2y$12$wfAa6pSHggXYomYspWV4CO2tizMNmhCS8l4pdKacrOu1HT3FiG17K",
-   "devices": ["CPH247373B563974295B352"],
-   "expiry": "20-09-2025 12:00 PM"
-},
    "sadas.ade": {
    "password": "$2y$12$7AGBl.FF7WdAWFdHFjscIeQ5pkL/0hnJXm8UbjBvdgt9U/k1lPKKC",
    "devices": ["SM-A045F011A15845ED9BBAF"],
    "expiry": "20-06-2026 12:00 PM"
-},
-   "mapras.gas": {
-   "password": "$2y$12$oN4x39RVsSUvL2Dradf6J.Z8DLHPipzW06XBZ3hmJgxLTUOquumgS",
-   "devices": ["VIVO1820AQKJJ7CYHAJV8DUW"],
-   "expiry": "19-07-2023 12:00 PM"
 },
    "ipama.jmhri": {
    "password": "$2y$12$Gb.Qo0ykc6tswFyVgQ8vROs5pvqDQ5IIpWzoRH4IFDzKG7aBqoz9m",
@@ -648,11 +483,6 @@
    "password": "$2y$12$91ouSpvQdK3YKbf785BAmOKVAATyuCBAKfDPdCZ5STX9TFKS2oJym",
    "devices": ["VIVO1938A9326D07A3A22E62"],
    "expiry": "23-06-2026 12:00 PM"
-},
-   "sipon.ahmad3": {
-   "password": "$2y$12$jevRTScm/GxSVDnXXJ/ofeSg5guie3ts.Trk6824HBVTDcK814dvy",
-   "devices": ["CPH2579689F0C3B528522E9"],
-   "expiry": "10-07-2025 12:00 PM"
 },
    "sadas.wantu": {
    "password": "$2y$12$pTkgqyJAdtJb3XBuW75Ee.xPDtrkKCLG3J8DZsM9RpQW4/izMikHi",
@@ -699,20 +529,10 @@
    "devices": ["CPH24616F9E7C0B4C755427"],
    "expiry": "01-07-2026 12:00 PM"
 },
-   "saenaga.nuryoto": {
-   "password": "$2y$12$68wt..5tq8PyDQ8VlApwsOMU/lQQqSVVyWEP8DD4rwExO1j..sST.",
-   "devices": ["CPH1909VSBIW4T4JZNNVK7D"],
-   "expiry": "26-07-2025 12:00 PM"
-},
    "saenaga.dwi99": {
    "password": "$2y$12$m490TBNfEycV7QCh/m2Nw.EorbHzQOUSAyIhlPqiUudq/lqIOIywG",
    "devices": ["CPH2015818908F4BA5E3EB5"],
    "expiry": "26-04-2026 12:00 PM"
-},
-   "zaufa.zulfi": {
-   "password": "$2y$12$/WlNv5G9xlJ/Jf65hyR0Jek7IxG2s6doFT8gG1IFEw3eATogPA3qu",
-   "devices": ["SM-A566B292377B26612197D"],
-   "expiry": "09-08-2025 12:00 PM"
 },
    "saenaga.arifin": {
    "password": "$2y$12$TbFKJKj0W59dDOsfbivDYObD2dPZsTBLUBLbG37MhNTrS2Ae/t3tm",
@@ -774,11 +594,6 @@
    "devices": ["SM-A556E392625C407BAB379"],
    "expiry": "06-08-2026 12:00 PM"
 },
-   "brebes.yeti": {
-   "password": "$2y$12$rLgbspRWoAj9i/kJoQItweR259.wznoXcWcuhFwdm6c/J2f.fWqhW",
-   "devices": ["23108RN04YF3C414FB79D9ACAE"],
-   "expiry": "30-08-2025 12:00 PM"
-},
    "saenaga.sudr": {
    "password": "$2y$12$pUJQpq9m1OjXsZBjo2o4le6Pn/Z5pjfpEOqPAdihttxfqw4JAcXT2",
    "devices": ["2406APNFAGD810857B0182D2B1"],
@@ -829,11 +644,6 @@
    "devices": ["REDMI6A33E7599F7D2A"],
    "expiry": "14-09-2026 12:00 PM"
 },
-   "sipon.elfian": {
-   "password": "$2y$12$dVbO5DJD3rGIat8x53IXtO5LujY3ugKgNYcQSgJ/UaZuodv60zUGy",
-   "devices": ["24040RN64YC44A4E8D367C998F"],
-   "expiry": "19-09-2024 12:00 PM"
-},
    "sadas.yyt": {
    "password": "$2y$12$qdRfHAPDkiNvKWO/wpZIQuzQEPbQF8ov2uqNpnoy.hqTMGf7sO6qq",
    "devices": ["V211141E7C23BC33960BC"],
@@ -843,11 +653,6 @@
    "password": "$2y$12$l2gL2kOFT5nI4a1ax/XBdOVZTu2fldNaJbFU3OBwaTAS7FVwC1VQC",
    "devices": ["VIVO193865E2B9C2E430C2BC"],
    "expiry": "16-10-2026 12:00 PM"
-},
-   "dikerja.wwn": {
-   "password": "$2y$12$nQnv0tloBUz31VJKbn3kOuORpOGX7QJAZpsb5gEb1WTvZMJh0W3Dq",
-   "devices": ["SM-A245F884DA5591A87EDF5"],
-   "expiry": "27-12-2025 12:00 PM"
 },
    "pusaka.syah": {
    "password": "$2y$12$Z9rGrhAFZ0AqvQkt/EFn2OeaNvmL4xPTJMva5jXEetMGzYFtFmxKS",
@@ -954,11 +759,6 @@
    "devices": ["RMX35210573B58A05B3D421"],
    "expiry": "02-12-2026 12:00 PM"
 },
-   "sadas.prabu": {
-   "password": "$2y$12$CmowPKos0zzerYS9YFBpf.qEWQQfIq05KdUBA4eBg0gYlYpsgcISq",
-   "devices": ["V21203EAE3CC733A818B3"],
-   "expiry": "02-02-2025 12:00 PM"
-},
    "sadas.angga": {
    "password": "$2y$12$EhJ.t3t3j6oF2qaBEMAFW.nWaZmyZFOvDMIUxrrclexNV7pYB.e46",
    "devices": ["V231788C22C8433F9A187"],
@@ -1008,11 +808,6 @@
    "password": "$2y$12$4CEk4FZ9PGkbKgivZs7Yq.tCc7xlVzUtipe4kiSSFt8v1kotBF.Wm",
    "devices": ["CPH26039A11C2774B3B890B"],
    "expiry": "15-01-2027 12:00 PM"
-},
-   "sipon.junialdi": {
-   "password": "$2y$12$OUJv1Q8637mZAkuE.19mOOgfwLqd.Jw1gJB1s86o5rKxGzQBi6JHW",
-   "devices": ["SM-A525F9F2DE33BB1DE098A"],
-   "expiry": "13-02-2025 12:00 PM"
 },
    "sadas.beti03": {
    "password": "$2y$12$upYiZUjWf2Fkj3z/4BHczuU7cCJ3RqbtIUe63n/Bs6Ttdj/qrE3rG",
