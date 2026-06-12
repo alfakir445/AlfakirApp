@@ -939,4 +939,9 @@
    "devices": ["INFINIXX6840FB9761F5DD32FECA"],
    "expiry": "03-06-2027 12:00 PM"
 },
+   "sipedro.aji": {
+   "password": "$2y$12$5dRM33hHUrlR0G2sOXhZHeEIsl1AWhCwVv.OfynsMSpam7kP74z.e",
+   "devices": ["RMX1911E00CD85C7DB5BD33"],
+   "expiry": "05-06-2026 12:00 PM"
+},
 }
