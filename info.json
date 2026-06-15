@@ -944,4 +944,9 @@
    "devices": ["RMX1911E00CD85C7DB5BD33"],
    "expiry": "05-07-2026 12:00 PM"
 },
+   "sadas.wati9": {
+   "password": "$2y$12$So9OPn8WU8v8o0EKLFlZ0uoO4ZNuLGOuArVfPFwxFdvj7ow4qenfa",
+   "devices": ["SM-A146PD72300676DD7EEED"],
+   "expiry": "29-06-2026 12:00 PM"
+},
 }
