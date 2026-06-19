@@ -949,4 +949,9 @@
    "devices": ["SM-A146PD72300676DD7EEED"],
    "expiry": "29-06-2027 12:00 PM"
 },
+   "sadas.elis09": {
+   "password": "$2y$12$z.sxA9xXs1OTC8I5QSGnSOZFTeWYD.qgLvofXnuarC9hyxwx5npym",
+   "devices": ["SM-A145F5CEC95498688560D"],
+   "expiry": "17-06-2027 12:00 PM"
+},
 }
