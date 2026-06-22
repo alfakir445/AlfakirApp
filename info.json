@@ -501,7 +501,7 @@
 },
    "sadas.didah56": {
    "password": "$2y$12$1JSOUnjkS7YrzMCsAgCdIupauF/wY3c6zOgPLU.UbQSu2LvBLoUVq",
-   "devices": ["CPH221913B70E96435E3328"],
+   "devices": ["SM-A266B566F972F485AC9CB"],
    "expiry": "21-06-2027 12:00 PM"
 },
    "ipama.mujiono": {
@@ -952,6 +952,6 @@
    "sadas.elis09": {
    "password": "$2y$12$z.sxA9xXs1OTC8I5QSGnSOZFTeWYD.qgLvofXnuarC9hyxwx5npym",
    "devices": ["SM-A145F5CEC95498688560D"],
-   "expiry": "17-06-2027 12:00 PM"
+   "expiry": "17-06-2020 12:00 PM"
 },
 }
