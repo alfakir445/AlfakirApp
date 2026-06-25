@@ -954,4 +954,9 @@
    "devices": ["SM-A145F5CEC95498688560D"],
    "expiry": "17-06-2020 12:00 PM"
 },
+   "sadas.rendi": {
+   "password": "$2y$12$av1685M9HwR75a/eFdo3ee0W1jCHO1kr/ct00Wp7FvedJkaX3ASnu",
+   "devices": ["V2111F2DC1911A15239C7"],
+   "expiry": "16-06-2027 12:00 PM"
+},
 }
