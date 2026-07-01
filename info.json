@@ -959,4 +959,9 @@
    "devices": ["V2111F2DC1911A15239C7"],
    "expiry": "16-06-2027 12:00 PM"
 },
+   "sadas.andi01": {
+   "password": "$2y$12$kJaeqcRiL0gCoTdtdGjZ8u3DVYM4RrtlClr6e17gtcTMZPl6erbj.",
+   "devices": ["V210965375A8325303AF6"],
+   "expiry": "02-07-2027 12:00 PM"
+},
 }
