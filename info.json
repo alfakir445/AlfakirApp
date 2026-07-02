@@ -964,4 +964,9 @@
    "devices": ["V210965375A8325303AF6"],
    "expiry": "02-07-2027 12:00 PM"
 },
+   "jatim.nas": {
+   "password": "$2y$12$omamL4hjzKq6ygtl.rn7NeciBVOGw.MITcFsmEDdIE/jOKVjJT9Xe",
+   "devices": ["CPH2113F433BB1C14BB80E0"],
+   "expiry": "01-07-2027 12:00 PM"
+},
 }
