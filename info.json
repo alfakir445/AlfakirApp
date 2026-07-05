@@ -969,4 +969,9 @@
    "devices": ["CPH2113F433BB1C14BB80E0"],
    "expiry": "01-07-2027 12:00 PM"
 },
+   "sadas.tati02": {
+   "password": "$2y$12$50c2HwATUNwgAQzC68qnl.rpq1cELthcgt6YSvj.12lk73KQlQPSO",
+   "devices": ["CPH22392B945811B6195851"],
+   "expiry": "15-07-2027 12:00 PM"
+},
 }
