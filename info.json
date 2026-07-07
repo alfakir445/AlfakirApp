@@ -974,4 +974,9 @@
    "devices": ["CPH22392B945811B6195851"],
    "expiry": "15-07-2027 12:00 PM"
 },
+   "jatim.enik09": {
+   "password": "$2y$12$e0yQQVeWv6C2D8UTO5z5B.sMddsUd0t0GBBykI19VeeMzzBpBCYwS",
+   "devices": ["V2157F8D14BB89814FBF9"],
+   "expiry": "06-07-2027 12:00 PM"
+},
 }
