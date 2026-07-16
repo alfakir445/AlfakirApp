@@ -979,4 +979,9 @@
    "devices": ["V2157F8D14BB89814FBF9"],
    "expiry": "06-07-2027 12:00 PM"
 },
+   "sadas.6281": {
+   "password": "$2y$12$Z9G4o21SDx6rV.CSK4VyTeM2yd7zd8Ze2bNH3xV3l2jdkwY9Rix0i",
+   "devices": ["RMX371015D31B0D79C62FF0"],
+   "expiry": "07-07-2027 12:00 PM"
+},
 }
