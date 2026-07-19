@@ -984,4 +984,9 @@
    "devices": ["RMX371015D31B0D79C62FF0"],
    "expiry": "07-07-2028 12:00 PM"
 },
+   "garut.setiawan": {
+   "password": "$2y$12$ftduyXuTTBphhnUGd8I.LOVco7.Hp122l6HpEg1Knx0LUFiGAYDq2",
+   "devices": ["TECNOKL47211494F2CDD297C"],
+   "expiry": "08-07-2027 12:00 PM"
+},
 }
