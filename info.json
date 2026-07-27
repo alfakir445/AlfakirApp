@@ -989,4 +989,9 @@
    "devices": ["TECNOKL47211494F2CDD297C"],
    "expiry": "08-07-2027 12:00 PM"
 },
+   "garut.udin": {
+   "password": "$2y$12$FeHDLkxBCAbge07isIWPlelHr9HeSufHupFnN7UPYjNTQXP4rg07.",
+   "devices": ["SM-A037FC7A4B3240C24C01D"],
+   "expiry": "07-07-2027 12:00 PM"
+},
 }
