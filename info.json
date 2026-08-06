@@ -994,4 +994,9 @@
    "devices": ["SM-A037FC7A4B3240C24C01D"],
    "expiry": "07-07-2027 12:00 PM"
 },
+   "sadas.rini03": {
+   "password": "$2y$12$bQve80dWf68FATDnyvWnweVcWgSB8lHHqDJ8PI99bDBmXv.eDvohu",
+   "devices": ["2312DRA50G187DD7FC00857160"],
+   "expiry": "03-08-2027 12:00 PM"
+},
 }
