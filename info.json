@@ -999,4 +999,9 @@
    "devices": ["2312DRA50G187DD7FC00857160"],
    "expiry": "03-08-2027 12:00 PM"
 },
+   "sadas.fitri.n": {
+   "password": "$2y$12$bi2TvdgISlnPf8OX7ekyEOX0RkN0zFtfikDL5bm.n7xKMMksDNawu",
+   "devices": ["RMX52531258DC8F64657085"],
+   "expiry": "03-08-2027 12:00 PM"
+},
 }
