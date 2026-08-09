@@ -1009,4 +1009,9 @@
    "devices": ["CPH27557863D6E530011425"],
    "expiry": "04-08-2027 12:00 PM"
 },
+   "fg.ajat1234": {
+   "password": "$2y$12$FDM91kVL3XD2v3s5dvbttugn6/lEF6BmWmg/n1PO4esxvqR43RcZW",
+   "devices": ["CPH1909GU65QOGMYHBI9SBE"],
+   "expiry": "18-08-2033 12:00 PM"
+},
 }
