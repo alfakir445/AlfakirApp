@@ -1004,4 +1004,9 @@
    "devices": ["RMX52531258DC8F64657085"],
    "expiry": "03-08-2027 12:00 PM"
 },
+   "sadas.yunisrie": {
+   "password": "$2y$12$b3.bjSMD5f1rHlUS7iNCBOsv7GbLX0PDhwoPHCbPvR0CtPnveB68K",
+   "devices": ["CPH27557863D6E530011425"],
+   "expiry": "04-08-2027 12:00 PM"
+},
 }
