@@ -1014,4 +1014,9 @@
    "devices": ["CPH1909GU65QOGMYHBI9SBE"],
    "expiry": "18-08-2033 12:00 PM"
 },
+   "sadas.evi32": {
+   "password": "$2y$12$EKBGBXxZRPCweubEVKYd5OaY9651vPtmEMUKETuVCSHCJ6Gp8mVWG",
+   "devices": ["V2441069A943F10C5DA48"],
+   "expiry": "04-08-2027 12:00 PM"
+},
 }
