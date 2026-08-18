@@ -1019,4 +1019,9 @@
    "devices": ["V2441069A943F10C5DA48"],
    "expiry": "04-08-2027 12:00 PM"
 },
+   "sadas.atik100": {
+   "password": "$2y$12$/WY9Ty7rq/w7tGqWVSkIs.X4qtoZGi7goAnimlKXMEw5qtlnQ3zwq",
+   "devices": ["SM-A376B3118A822996B9A4C"],
+   "expiry": "04-08-2027 12:00 PM"
+},
 }
