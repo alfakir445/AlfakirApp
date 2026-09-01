@@ -1024,4 +1024,9 @@
    "devices": ["SM-A376B3118A822996B9A4C"],
    "expiry": "04-08-2027 12:00 PM"
 },
+   "jatim.pipit": {
+   "password": "$2y$12$YkVkdXj4bLsbbuKf80AtuegSxd.ioiAu0918fC2KuPVPE5Koiq78.",
+   "devices": ["2312DRAABG99E706CEAEF86CAA"],
+   "expiry": "26-08-2027 12:00 PM"
+},
 }
