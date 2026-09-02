@@ -1039,4 +1039,9 @@
    "devices": ["SM-G988B583BD2958D91357D"],
    "expiry": "10-08-2027 12:00 PM"
 },
+   "sadas.lani42": {
+   "password": "$2y$12$ElyDmTdi6J8im80QivOdh.GBud.6yMOwhK7r/lWnxGQFDjw.3LK.O",
+   "devices": ["SM-A075FAF3614CBCD33166B"],
+   "expiry": "11-08-2027 12:00 PM"
+},
 }
