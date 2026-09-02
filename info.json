@@ -1034,4 +1034,9 @@
    "devices": ["24040RN64YE16BE09D282BD66A"],
    "expiry": "05-08-2027 12:00 PM"
 },
+   "sadas.rini87": {
+   "password": "$2y$12$vy1fZuL0br2xnynf26OP9e3osUEPnpTkQeYTZ2wCYz7cUVYinMz2W",
+   "devices": ["SM-G988B583BD2958D91357D"],
+   "expiry": "10-08-2027 12:00 PM"
+},
 }
