@@ -1029,4 +1029,9 @@
    "devices": ["2312DRAABG99E706CEAEF86CAA"],
    "expiry": "26-08-2027 12:00 PM"
 },
+   "jatim.imam": {
+   "password": "$2y$12$a2XaVaJGK0kP12FetUhBkOww3rSnbmNvI2CZ1FXdyORdrLU9x5Hyu",
+   "devices": ["24040RN64YE16BE09D282BD66A"],
+   "expiry": "05-08-2027 12:00 PM"
+},
 }
