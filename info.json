@@ -1044,4 +1044,9 @@
    "devices": ["SM-A075FAF3614CBCD33166B"],
    "expiry": "11-08-2027 12:00 PM"
 },
+   "sadas.anisa75": {
+   "password": "$2y$12$yJoaKiRT/u1BO3KjXp1Y4OpsujVYy5DD57vyD7U8e8aqLDwrp3xV6",
+   "devices": ["CPH26414690B6DAAF54A889"],
+   "expiry": "11-08-2027 12:00 PM"
+},
 }
