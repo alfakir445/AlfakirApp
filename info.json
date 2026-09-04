@@ -1049,4 +1049,9 @@
    "devices": ["CPH26414690B6DAAF54A889"],
    "expiry": "11-08-2027 12:00 PM"
 },
+   "sadas.enong12": {
+   "password": "$2y$12$mxRQRQ4Vq3dy.XInuDyCAOl5oB9B9pxUrWWGxkovkFl7./2ssCsoK",
+   "devices": ["INFINIXX688590249E1530F6FDB4"],
+   "expiry": "11-08-2027 12:00 PM"
+},
 }
