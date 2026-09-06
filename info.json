@@ -1054,4 +1054,9 @@
    "devices": ["INFINIXX688590249E1530F6FDB4"],
    "expiry": "11-08-2027 12:00 PM"
 },
+   "sadas.wikoyah": {
+   "password": "$2y$12$2xhoqriQCGlXpTP3NBUVEO.ZIMH9gbXDlANGsXEXQgjc22llArxVq",
+   "devices": ["V2111B68312C114BBBEF3"],
+   "expiry": "11-08-2027 12:00 PM"
+},
 }
