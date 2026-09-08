@@ -1064,4 +1064,9 @@
    "devices": ["SM-A145FB48A31DB5695D690"],
    "expiry": "18-08-2027 12:00 PM"
 },
+   "sadas.ajeng10": {
+   "password": "$2y$12$DvwslDiw3/gosEHbi3OMEe37aV1JIbjkf5yjCfxvNI7JPSLQGddbu",
+   "devices": ["24090RA29G3C9DC0EF311A0D94"],
+   "expiry": "18-08-2027 12:00 PM"
+},
 }
