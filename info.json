@@ -1059,4 +1059,9 @@
    "devices": ["V2111B68312C114BBBEF3"],
    "expiry": "11-08-2027 12:00 PM"
 },
+   "sadas.parwati": {
+   "password": "$2y$12$O.qAWgBdtJhQ95J7pJuhs.T/SwYcYYJoJAZSW9q3aEWbKbHELRWJe",
+   "devices": ["SM-A145FB48A31DB5695D690"],
+   "expiry": "18-08-2027 12:00 PM"
+},
 }
