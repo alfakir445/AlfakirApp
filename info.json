@@ -1069,4 +1069,9 @@
    "devices": ["24090RA29G3C9DC0EF311A0D94"],
    "expiry": "18-08-2027 12:00 PM"
 },
+   "sadas.erni94": {
+   "password": "$2y$12$fDap0N9YeQBVzxjkwkBk1eO0gLg7E7gcvLCRnUn2DEka5IudxiSXu",
+   "devices": ["CPH21857CB4296855708C88"],
+   "expiry": "11-08-2027 12:00 PM"
+},
 }
