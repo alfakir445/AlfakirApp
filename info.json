@@ -1084,4 +1084,9 @@
    "devices": ["CPH2209A0A98FBA360E45E4"],
    "expiry": "18-08-2027 12:00 PM"
 },
+   "sadas.gugi67": {
+   "password": "$2y$12$AW8vNlhIE5spImZRJI2/UudL8EX.BJzaeL0y.FoKh4VDaj4xCFRU6",
+   "devices": ["24094RAD4GFA6741E28E188BE0"],
+   "expiry": "01-09-2026 12:00 PM"
+},
 }
