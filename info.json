@@ -1089,4 +1089,9 @@
    "devices": ["24094RAD4GFA6741E28E188BE0"],
    "expiry": "01-09-2027 12:00 PM"
 },
+   "sadas.lia71": {
+   "password": "$2y$12$EdvGBNUvopbdH5oynnF60.QauTw2.L38i6mL6yBVNCN9XhwteF9Yy",
+   "devices": ["SM-A055F69A4656571736CD8"],
+   "expiry": "08-09-2027 12:00 PM"
+},
 }
