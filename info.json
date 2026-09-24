@@ -1094,4 +1094,9 @@
    "devices": ["SM-A055F69A4656571736CD8"],
    "expiry": "08-09-2027 12:00 PM"
 },
+   "sipondik.marni": {
+   "password": "$2y$12$XMXnqiT8XCCQMUrLmgIXluZde/JyDwNYmQ/yYSVGCHXh9qXLi3UE.",
+   "devices": ["V203018F3DFB5B96B7E95"],
+   "expiry": "01-09-2027 12:00 PM"
+},
 }
