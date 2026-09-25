@@ -1099,4 +1099,9 @@
    "devices": ["V203018F3DFB5B96B7E95"],
    "expiry": "01-09-2027 12:00 PM"
 },
+   "sadas.marlin": {
+   "password": "$2y$12$PxWLp6Pz99ocK.Q.E64o..KNvW2YNSM8Ts.LfN.wQxy4Zi2nC6hIq",
+   "devices": ["V22073D86E69517A6B989"],
+   "expiry": "01-09-2027 12:00 PM"
+},
 }
