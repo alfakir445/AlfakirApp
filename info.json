@@ -1104,4 +1104,9 @@
    "devices": ["V22073D86E69517A6B989"],
    "expiry": "01-09-2027 12:00 PM"
 },
+   "sadas.yantiR": {
+   "password": "$2y$12$WFsA.4O7fTZzlxTZliPBw..Gx.5SK3qpapCp3yzIc9eyMgLbXTQJ2",
+   "devices": ["RMX21952E5494C2A31B55BD"],
+   "expiry": "08-09-2027 12:00 PM"
+},
 }
