@@ -1114,4 +1114,9 @@
    "devices": ["CPH2603D9076262ADD1E14D"],
    "expiry": "20-10-2027 12:00 PM"
 },
+   "sadas.yss": {
+   "password": "$2y$12$RitXNZf/5A7HNCGHWPVOzuizAB9X8.Ximaif4S7QRAj8srN.mSZnq",
+   "devices": ["SM-A366B76E41A1FF3ED6524"],
+   "expiry": "20-10-2027 12:00 PM"
+},
 }
