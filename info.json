@@ -1109,4 +1109,9 @@
    "devices": ["RMX21952E5494C2A31B55BD"],
    "expiry": "08-09-2027 12:00 PM"
 },
+   "sadas.ressy": {
+   "password": "$2y$12$rjeRdGWCYwh35S4LiT3l0erRsJQm/4NgCqdlbJtQEa.q0FZTswSMq",
+   "devices": ["CPH2603D9076262ADD1E14D"],
+   "expiry": "20-10-2027 12:00 PM"
+},
 }
