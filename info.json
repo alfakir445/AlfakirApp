@@ -1124,4 +1124,9 @@
    "devices": ["SM-A047FEC371E38E3D0FA53"],
    "expiry": "08-09-2027 12:00 PM"
 },
+   "sadas.sary": {
+   "password": "$2y$12$TpcdQT0qdZCeJzm7Vk8/PeHvc9x0um/dh9MCUii8UQBFaTVw0FLLK",
+   "devices": ["CPH259180FF7E5FE65B9851"],
+   "expiry": "01-10-2026 12:00 PM"
+},
 }
