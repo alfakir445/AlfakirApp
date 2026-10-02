@@ -1119,4 +1119,9 @@
    "devices": ["SM-A366B76E41A1FF3ED6524"],
    "expiry": "20-10-2027 12:00 PM"
 },
+   "luse.benita": {
+   "password": "$2y$12$vZs3Ev/aVbXv1dPSoxl/n.17S5D09LKYf52YFsynQApsx5cvjWSY2",
+   "devices": ["SM-A047FEC371E38E3D0FA53"],
+   "expiry": "08-09-2027 12:00 PM"
+},
 }
