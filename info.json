@@ -1129,4 +1129,9 @@
    "devices": ["CPH259180FF7E5FE65B9851"],
    "expiry": "01-10-2027 12:00 PM"
 },
+   "sadas.eva12": {
+   "password": "$2y$12$qRPx2flIiyX4KFtX7VP6/u3DQzojVFi1auf7iHhj4MHo49U/J/aua",
+   "devices": ["V2029AFE91ABA6DDAFCF4"],
+   "expiry": "22-09-2027 12:00 PM"
+},
 }
