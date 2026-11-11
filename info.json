@@ -1149,4 +1149,9 @@
    "devices": ["SM-A075FA3F7997E03003E26"],
    "expiry": "05-10-2027 12:00 PM"
 },
+   "sadas.marlina6": {
+   "password": "$2y$12$mUq7wSl1NZ3YlxWhNLxKoObKy.iKQHT3VD1if68g084ueAVwkJhm.",
+   "devices": ["CPH26316CA6707EF5B8C841"],
+   "expiry": "09-11-2027 12:00 PM"
+},
 }
