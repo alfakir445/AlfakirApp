@@ -1154,4 +1154,9 @@
    "devices": ["CPH26316CA6707EF5B8C841"],
    "expiry": "09-11-2027 12:00 PM"
 },
+   "jatim.syahibusy": {
+   "password": "$2y$12$5ksvceGT6n2WHAvpVwNxu.8rMt6PPjZbOjq0PFCM3t4sKYCOfnPdS",
+   "devices": ["REDMINOTE8171E6756BC6DAE2F"],
+   "expiry": "02-11-2027 12:00 PM"
+},
 }
